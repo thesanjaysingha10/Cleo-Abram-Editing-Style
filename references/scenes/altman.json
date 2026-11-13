@@ -1,0 +1,122 @@
+{
+ "video": "hmtuvNfytjM",
+ "title": "Sam Altman Shows Me GPT 5... And What's Next",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 17.059,
+   "dur_s": 2.79,
+   "title": "ChatGPT prompt typed (with scratch transition)",
+   "what": "Cut from Altman through a film-scratch / light-leak overlay into a recreated ChatGPT UI; 'Who is Sam Alt\u2026' types into the prompt box; push-in to the box; scratches + a soft white bloom circle carry back to Cleo.",
+   "motion": "UI push-in (ease-out); typed text ~2 chars/frame; 4\u20136f scratch + bloom transitions",
+   "type": "Recreated product UI font (system sans), white on charcoal",
+   "tags": [
+    "UI recreation",
+    "typing",
+    "scratch transition"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 24.233,
+   "dur_s": 2.75,
+   "title": "Introducing GPT-5 page",
+   "what": "Pastel gradient product page; 'GPT-5' gets a lime highlighter; prompt text blurs up from below.",
+   "motion": "Push-in + highlight wipe L\u2192R; motion-blurred text slide",
+   "type": "Lime highlighter on product UI type",
+   "tags": [
+    "UI recreation",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 28.237,
+   "dur_s": 10.34,
+   "title": "SUPERINTELLIGENCE flash cut",
+   "what": "The word 'SUPERINTELLIGENCE' holds dead centre in wide-tracked white heavy caps while the image under it changes every 0.2s (galaxy, MRI, cube, car, piano, lab, robots\u2026). Objects sometimes pass in front of letters.",
+   "motion": "Background hard cuts every 5\u20136 frames on the beat; text stays locked; occasional occlusion",
+   "type": "White heavy sans caps, very wide tracking (~+30%), ~6% height, centred",
+   "tags": [
+    "kinetic type",
+    "flash montage",
+    "text behind object"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 43.835,
+   "dur_s": 9.63,
+   "title": "Headline wall + investment chart",
+   "what": "Bloom transition from Cleo into news headlines, each with lime highlight on 'superintelligence'; pans across; then a dark chart 'ANNUAL PRIVATE INVESTMENT IN AI' where lines draw up (US, China, Europe); bloom out to Cleo.",
+   "motion": "Each headline ~0.4s hard cut with a slight push; chart lines draw L\u2192R",
+   "type": "Publisher fonts + lime highlighter; chart: tiny caps labels",
+   "tags": [
+    "headline collage",
+    "highlighter",
+    "data chart"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 77.286,
+   "dur_s": 6.59,
+   "title": "HUGE* CONVERSATIONS: SUPERINTELLIGENCE",
+   "what": "Show title: stacked HUGE outline/solid rows in colourways, giant cropped H/UGE letters, 'CONVERSATIONS' with outline repeats, then '*SUPERINTELLIGENCE: PART 1' lime on blue.",
+   "motion": "0.2s cuts on the music; letters push through frame",
+   "type": "Ultra-heavy grotesque, lime face + dark extrude; outline versions",
+   "tags": [
+    "title sequence",
+    "kinetic type",
+    "episode title"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "overlay",
+   "start_s": 673.0,
+   "dur_s": 14.0,
+   "title": "'Question from' super",
+   "what": "Top-right: circular avatar in lime ring + lime label plates 'QUESTION FROM:' / 'PATRICK COLLISON, STRIPE CEO'.",
+   "motion": "Avatar pops, plates wipe on; holds ~14s",
+   "type": "Black heavy caps on lime plates, 2 rows",
+   "tags": [
+    "overlay",
+    "guest question super"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "overlay",
+   "start_s": 985.0,
+   "dur_s": 16.0,
+   "title": "'Question from' super #2",
+   "what": "Same component for Jensen Huang, persists through the wide shot.",
+   "motion": "Same",
+   "type": "Same",
+   "tags": [
+    "overlay",
+    "guest question super"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "animation",
+   "start_s": 3895.5,
+   "dur_s": 11.5,
+   "title": "End card (sentence-case variant)",
+   "what": "Teal panel: coral highlight blocks 'To support Huge If True, please consider subscribing.', lime arrows and 'SUBSCRIBE!'; then sage panel with lime HUGE* + '*if true' and credits on grey label plates.",
+   "motion": "Arrows bob; panels slide",
+   "type": "Coral block highlight with dark humanist sans; lime heavy caps SUBSCRIBE!; credit role labels on grey plates",
+   "tags": [
+    "end card",
+    "brand system"
+   ]
+  }
+ ]
+}

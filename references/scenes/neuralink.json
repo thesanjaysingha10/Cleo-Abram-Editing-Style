@@ -1,0 +1,781 @@
+{
+ "video": "Vna0hkq7U1g",
+ "title": "Neuralink's Newest Brain Chip Isn't What You Think",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 10.344,
+   "dur_s": 5.21,
+   "title": "Hook \u2014 brain on a plinth",
+   "what": "3D clay-shaded pink brain on a teal plinth, blueprint-dark backdrop. Slow dolly push-in to the implant; a thin lime ring blooms around the chip on the last beat.",
+   "motion": "3D camera push-in (ease-in-out, ~5s); lime highlight ring scale-in",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "camera move",
+    "highlight ring"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 26.568,
+   "dur_s": 1.88,
+   "title": "Chip goes x-ray",
+   "what": "Same brain; surface material dissolves to translucent so the chip's threads show through.",
+   "motion": "Material cross-dissolve opaque\u2192translucent ~0.6s",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "x-ray reveal"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 49.216,
+   "dur_s": 7.59,
+   "title": "HUGE* title sequence",
+   "what": "Show open: giant cropped HUGE letters push past camera, then the word in 4 colourways (lime/teal, mauve, sage, blue), an asterisk tile pattern, '*if true', ending on lime HUGE* with dark teal extrude on sage.",
+   "motion": "Hard cuts every 0.2\u20130.5s on the music; letters scale-through; extrude offset stays fixed",
+   "type": "Ultra-heavy grotesque caps, lime face + dark teal block-shadow extrude; tiny '*if true' lowercase sans",
+   "tags": [
+    "title sequence",
+    "kinetic type",
+    "colour swap"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 68.277,
+   "dur_s": 6.8,
+   "title": "How heavy is a brain?",
+   "what": "Head lid flips open, brain floats out onto a glowing plinth; lime label '1.4KG ~3LBS' pops in; comedic rooster for scale; giant white cartoon glove pokes the brain.",
+   "motion": "Object pop-out with overshoot; label scale-pop; glove slides in from frame edge",
+   "type": "Lime box label, black heavy caps + small sub-unit line",
+   "tags": [
+    "3D explainer",
+    "stat callout",
+    "humour prop"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 96.763,
+   "dur_s": 6.3,
+   "title": "Brain eats blood",
+   "what": "X-ray human silhouette, red arteries from heart to brain, '15-20% OF CARDIO OUTPUT' stat; heart pulses with a cyan halo.",
+   "motion": "Stat fades + rises in; heart halo pulse loop; camera drift down to heart and back",
+   "type": "Big lime numerals (heavy geometric sans) + white tracked small caps",
+   "tags": [
+    "3D explainer",
+    "stat callout",
+    "x-ray body"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "animation",
+   "start_s": 107.566,
+   "dur_s": 18.56,
+   "title": "Brain vs computer",
+   "what": "Pink brain beside a retro beige Macintosh, dashed lime data along nerve 'cables'; macro keyboard key press; white mannequin reaching for a blue cup, brain x-rayed in.",
+   "motion": "Split layout, dashed-line flow loops; match cuts between brain and computer",
+   "type": "Tiny white caps labels ('INPUTS', 'OUTPUTS')",
+   "tags": [
+    "3D explainer",
+    "analogy",
+    "mannequin"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "animation",
+   "start_s": 130.964,
+   "dur_s": 5.71,
+   "title": "Neurons firing",
+   "what": "Dense dendrite forest, lime electric flashes ripple through; ends cutting to a starfield (scale analogy).",
+   "motion": "Fast 0.2\u20130.4s cuts, glow flicker; fly-through",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "fly-through",
+    "analogy"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "animation",
+   "start_s": 140.14,
+   "dur_s": 10.55,
+   "title": "Wiring becomes highways",
+   "what": "Brain in head with blue vessels, cable plug; camera orbits behind the head, nerves become thick cable bundles on a teal blueprint grid.",
+   "motion": "Orbit + morph; grid floor establishes the 'highway world' used for the rest of the film",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "metaphor world",
+    "blueprint grid"
+   ]
+  },
+  {
+   "id": "S09",
+   "kind": "animation",
+   "start_s": 158.492,
+   "dur_s": 7.84,
+   "title": "Control room metaphor",
+   "what": "Inside the skull is a pink 'CONTROL ROOM' with a tiny operator; cut to a street of mannequins, five pink sense icons (HEAR/SMELL/TASTE/FEEL/SEE) arc over the figure.",
+   "motion": "Icons pop in staggered left\u2192right (~3f apart); sign is a 3D extruded object",
+   "type": "3D extruded white caps sign; lime micro-labels over pink icon tiles",
+   "tags": [
+    "3D explainer",
+    "metaphor world",
+    "icon stagger"
+   ]
+  },
+  {
+   "id": "S10",
+   "kind": "animation",
+   "start_s": 172.756,
+   "dur_s": 11.43,
+   "title": "Signal path",
+   "what": "Glass brain with a lime spark and a white motion-arc; neuron chain macro; lime pulse capsule travels along the cable highway; 'MOVE' label with red pin.",
+   "motion": "Light pulse tracks along path (linear); camera follows",
+   "type": "White heavy caps label + red triangle pin",
+   "tags": [
+    "3D explainer",
+    "signal pulse",
+    "label pin"
+   ]
+  },
+  {
+   "id": "S11",
+   "kind": "overlay",
+   "start_s": 184.184,
+   "dur_s": 3.3,
+   "title": "Lower third \u2014 Dan Adams",
+   "what": "Name super over interview: lime asterisk bullet, NAME in white bold caps, role in smaller grey caps.",
+   "motion": "Wipe/fade on, ~10f; holds ~3s",
+   "type": "White heavy caps + small tracked caps role line; lime * bullet",
+   "tags": [
+    "lower third",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S12",
+   "kind": "animation",
+   "start_s": 201.535,
+   "dur_s": 1.96,
+   "title": "Realistic brain glow",
+   "what": "Photo-real tan brain rotating with a yellow emissive region.",
+   "motion": "Slow turntable",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S13",
+   "kind": "animation",
+   "start_s": 207.374,
+   "dur_s": 11.43,
+   "title": "Brain regions mapped",
+   "what": "Brain turns to glass; regions light up one at a time with leader lines to small label chips (VISUAL CORTEX lime, BROCA'S AREA blue, CORTICAL HAND KNOB red).",
+   "motion": "Region glow fade-up then leader line draw-on, label chip pops; sequential",
+   "type": "Tiny bold caps on solid colour chips matching region colour",
+   "tags": [
+    "3D explainer",
+    "callout labels",
+    "colour coding"
+   ]
+  },
+  {
+   "id": "S14",
+   "kind": "animation",
+   "start_s": 224.391,
+   "dur_s": 8.43,
+   "title": "The key = BCIs",
+   "what": "Hand knob in red, MOTOR CORTEX label; lime key icon flies in; big lime 'BRAIN' then 'BRAIN-COMPUTER INTERFACES' fills frame over the dimmed brain.",
+   "motion": "Key slides in + rotate; words type in word-by-word (hard swap)",
+   "type": "Big lime heavy condensed caps with dark outline \u2014 the hero-word treatment",
+   "tags": [
+    "kinetic type",
+    "icon metaphor",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S15",
+   "kind": "animation",
+   "start_s": 252.294,
+   "dur_s": 21.85,
+   "title": "Highway of signals",
+   "what": "Brain on grid, cable bundle highways, lime capsule pulse, glass brain zoom, 'BEFORE ACTION' label + red pin.",
+   "motion": "Long fly-along camera, ease-in-out; pulse linear",
+   "type": "White heavy caps + red pin",
+   "tags": [
+    "3D explainer",
+    "metaphor world",
+    "fly-through"
+   ]
+  },
+  {
+   "id": "S16",
+   "kind": "animation",
+   "start_s": 282.115,
+   "dur_s": 3.5,
+   "title": "Reading the waveform",
+   "what": "Sagittal brain in head silhouette, lime nerve path; circular magnifier inset with white waveform.",
+   "motion": "Magnifier circle scales in from the nerve point with a cone; waveform scrolls",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "magnifier inset",
+    "waveform"
+   ]
+  },
+  {
+   "id": "S17",
+   "kind": "animation",
+   "start_s": 289.831,
+   "dur_s": 6.51,
+   "title": "Where the BCI sits",
+   "what": "Pink sagittal brain, lime path to a blue implant labelled 'BRAIN COMPUTER INTERFACE'; lime arrow bobs.",
+   "motion": "Line draw-on along path; arrow idle bob",
+   "type": "Small white stacked caps label",
+   "tags": [
+    "3D explainer",
+    "line draw",
+    "label"
+   ]
+  },
+  {
+   "id": "S18",
+   "kind": "overlay",
+   "start_s": 296.338,
+   "dur_s": 4.59,
+   "title": "Lower third \u2014 DJ Seo",
+   "what": "Same lower-third system as S11.",
+   "motion": "Wipe/fade on",
+   "type": "Same as S11",
+   "tags": [
+    "lower third",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S19",
+   "kind": "animation",
+   "start_s": 300.926,
+   "dur_s": 6.05,
+   "title": "Chip product shot",
+   "what": "Macro product render of the chip with a real finger tapping it.",
+   "motion": "Locked camera, shallow DOF",
+   "type": "none",
+   "tags": [
+    "product render"
+   ]
+  },
+  {
+   "id": "S20",
+   "kind": "animation",
+   "start_s": 316.107,
+   "dur_s": 11.93,
+   "title": "Implant placement",
+   "what": "Parts laid out \u2192 brain in head with blue motor region and hole \u2192 coin implant drops into place.",
+   "motion": "Push-in; implant drops with soft ease and settle",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S21",
+   "kind": "animation",
+   "start_s": 333.833,
+   "dur_s": 10.39,
+   "title": "Skull = stadium roof",
+   "what": "Head skull opens like a stadium roof (lime arrow points), cut through blimp cockpit into the stadium.",
+   "motion": "Lid hinge open; arrow draw-on; transition through cockpit window",
+   "type": "Lime hand-drawn style arrow",
+   "tags": [
+    "analogy",
+    "3D explainer",
+    "transition"
+   ]
+  },
+  {
+   "id": "S22",
+   "kind": "animation",
+   "start_s": 346.304,
+   "dur_s": 2.63,
+   "title": "Stadium on the grid",
+   "what": "Top-down 3D stadium on a blue blueprint grid with HUGE* blimp; red counter tags ('8000000') pop around.",
+   "motion": "Tags pop in staggered",
+   "type": "White numerals on red rounded tags",
+   "tags": [
+    "analogy",
+    "counter tags",
+    "blueprint grid"
+   ]
+  },
+  {
+   "id": "S23",
+   "kind": "animation",
+   "start_s": 350.976,
+   "dur_s": 3.8,
+   "title": "Blimp fly-in",
+   "what": "HUGE* branded blimp sweeps over, camera dives into the bowl.",
+   "motion": "Continuous swoop camera, ease-in-out",
+   "type": "Brand logo on 3D object",
+   "tags": [
+    "analogy",
+    "camera move",
+    "brand placement"
+   ]
+  },
+  {
+   "id": "S24",
+   "kind": "animation",
+   "start_s": 358.191,
+   "dur_s": 10.22,
+   "title": "Signal vs invasiveness chart",
+   "what": "Stadium blurs to background; 2D axis diagram draws on: CLEARER/FUZZIER SIGNAL, MORE/LESS INVASIVE, then a dashed trend line with a dot.",
+   "motion": "Arrows grow from centre; labels fade-in; dashed line draws; background defocus",
+   "type": "Lime and red heavy caps labels at arrow tips",
+   "tags": [
+    "diagram overlay",
+    "line draw",
+    "background blur"
+   ]
+  },
+  {
+   "id": "S25",
+   "kind": "animation",
+   "start_s": 372.455,
+   "dur_s": 19.77,
+   "title": "Stentrode in a vessel",
+   "what": "Macro brain surface with blue vessels; stent slides inside a vein; cut back to stadium with the chart docked as a corner card.",
+   "motion": "Slow macro push; chart shrinks to a picture-in-picture card",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "PiP card"
+   ]
+  },
+  {
+   "id": "S26",
+   "kind": "overlay",
+   "start_s": 395.729,
+   "dur_s": 5.46,
+   "title": "Lower third \u2014 Rapoport (remote)",
+   "what": "Video-call interview with the same lower-third system.",
+   "motion": "Fade on",
+   "type": "Same as S11",
+   "tags": [
+    "lower third",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S27",
+   "kind": "overlay",
+   "start_s": 404.696,
+   "dur_s": 2.25,
+   "title": "Company render + caption",
+   "what": "Third-party medical render with a thin sans caption bottom-left.",
+   "motion": "none",
+   "type": "Light sans sentence-case caption",
+   "tags": [
+    "borrowed render",
+    "caption"
+   ]
+  },
+  {
+   "id": "S28",
+   "kind": "animation",
+   "start_s": 412.871,
+   "dur_s": 9.8,
+   "title": "Into the stands",
+   "what": "Camera flies from seats onto the pitch; diagram card in corner; lime stripe accents.",
+   "motion": "FPV fly-in",
+   "type": "none",
+   "tags": [
+    "analogy",
+    "camera move"
+   ]
+  },
+  {
+   "id": "S29",
+   "kind": "animation",
+   "start_s": 429.179,
+   "dur_s": 5.96,
+   "title": "Players' huddle chatter",
+   "what": "Huddle on the pitch; blue glowing speech tags pop above ('LETS GO LONG', 'READY? BREAK!', 'KEEP IT TIGHT').",
+   "motion": "Tags pop in staggered",
+   "type": "Small blue pill tags, white caps",
+   "tags": [
+    "analogy",
+    "speech tags"
+   ]
+  },
+  {
+   "id": "S30",
+   "kind": "animation",
+   "start_s": 447.155,
+   "dur_s": 2.79,
+   "title": "Utah Array reveal",
+   "what": "Spiky electrode array on a curved grid, big lime 'UTAH ARRAY' slams in right.",
+   "motion": "Product orbit; text hard-in",
+   "type": "Big lime heavy caps, 2 lines, left-aligned",
+   "tags": [
+    "product reveal",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S31",
+   "kind": "animation",
+   "start_s": 457.165,
+   "dur_s": 7.34,
+   "title": "Rewind + chart",
+   "what": "Huddle with '\u25c0\u25c0 REW' VHS label, then back to the axis chart with labelled dots along the trend line (Utah Array, Precision, Synchron).",
+   "motion": "Rewind speed-ramp; dots pop along line",
+   "type": "White caps 'REW' with chevrons; small caps dot labels",
+   "tags": [
+    "diagram overlay",
+    "rewind gag"
+   ]
+  },
+  {
+   "id": "S32",
+   "kind": "animation",
+   "start_s": 495.078,
+   "dur_s": 3.84,
+   "title": "THE LINK reveal",
+   "what": "Exploded-view device assembles; device sits between 'THE' and 'LINK' in big white caps on dark.",
+   "motion": "Parts collapse together (ease-out); words slide in from either side of the object",
+   "type": "Huge white heavy caps, device used as a letter-space",
+   "tags": [
+    "product reveal",
+    "title card",
+    "exploded view"
+   ]
+  },
+  {
+   "id": "S33",
+   "kind": "animation",
+   "start_s": 558.266,
+   "dur_s": 6.84,
+   "title": "Ad \u2014 email UI",
+   "what": "Sponsor email recreated; lines get lime highlighter swipes; '*AD' lime ring badge top-right.",
+   "motion": "Push-in on UI; highlight wipes left\u2192right",
+   "type": "Lime highlighter behind black text; '*AD' badge",
+   "tags": [
+    "ad",
+    "UI recreation",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S34",
+   "kind": "animation",
+   "start_s": 579.12,
+   "dur_s": 17.27,
+   "title": "Ad \u2014 dashboard UI",
+   "what": "Dark dashboard screens with push-ins, '*AD' badge persistent.",
+   "motion": "Crop/zoom moves on screenshots",
+   "type": "UI fonts",
+   "tags": [
+    "ad",
+    "UI recreation"
+   ]
+  },
+  {
+   "id": "S35",
+   "kind": "overlay",
+   "start_s": 596.387,
+   "dur_s": 4.0,
+   "title": "Ad \u2014 URL super",
+   "what": "'MERCURY.COM' lime heavy caps bottom centre over host.",
+   "motion": "Pop in",
+   "type": "Lime heavy caps with dark shadow",
+   "tags": [
+    "ad",
+    "url super"
+   ]
+  },
+  {
+   "id": "S36",
+   "kind": "overlay",
+   "start_s": 668.626,
+   "dur_s": 1.79,
+   "title": "Name callout arrow",
+   "what": "Hand-drawn lime arrow + 'DAN' label points at a person.",
+   "motion": "Arrow draw-on ~8f",
+   "type": "Lime heavy caps",
+   "tags": [
+    "callout arrow",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S37",
+   "kind": "animation",
+   "start_s": 761.302,
+   "dur_s": 9.01,
+   "title": "Output side",
+   "what": "Implant broadcasts cyan wifi arcs; head-silhouette diagram with OUTPUT/INPUT nodes wired to a laptop then a robot hand.",
+   "motion": "Wifi arcs pulse; circuit line draws node to node",
+   "type": "Tiny white caps node labels",
+   "tags": [
+    "3D explainer",
+    "circuit line"
+   ]
+  },
+  {
+   "id": "S38",
+   "kind": "animation",
+   "start_s": 773.523,
+   "dur_s": 4.42,
+   "title": "Signal highway, chase cam",
+   "what": "Lime capsule pulse rides the cable highway.",
+   "motion": "Chase camera, constant speed",
+   "type": "none",
+   "tags": [
+    "metaphor world",
+    "signal pulse"
+   ]
+  },
+  {
+   "id": "S39",
+   "kind": "animation",
+   "start_s": 783.866,
+   "dur_s": 3.88,
+   "title": "Input in",
+   "what": "Sagittal brain, blue implant, lime arrow; lime signal draws down the spine.",
+   "motion": "Line draw-on",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "line draw"
+   ]
+  },
+  {
+   "id": "S40",
+   "kind": "animation",
+   "start_s": 799.173,
+   "dur_s": 3.5,
+   "title": "Chip x-ray + INPUT IN",
+   "what": "Brain goes translucent around the chip; 'INPUT IN' label with lime arrow.",
+   "motion": "Material dissolve; arrow pop",
+   "type": "White caps label + lime arrow",
+   "tags": [
+    "3D explainer",
+    "x-ray reveal",
+    "label"
+   ]
+  },
+  {
+   "id": "S41",
+   "kind": "animation",
+   "start_s": 811.352,
+   "dur_s": 4.8,
+   "title": "Fly down the highway",
+   "what": "POV through the cable highway, one lane lights blue.",
+   "motion": "Forward dolly; lane glow fade-up",
+   "type": "none",
+   "tags": [
+    "metaphor world",
+    "fly-through"
+   ]
+  },
+  {
+   "id": "S42",
+   "kind": "animation",
+   "start_s": 819.444,
+   "dur_s": 32.07,
+   "title": "Inputs / outputs / senses",
+   "what": "Brain with implants, OUTPUTS/INPUTS tunnels, multicolour sense regions with labels, Mac at the end of a 'MEMORY'/'PROCESSING' data road of coloured blocks.",
+   "motion": "Long 32s sequence of orbit + dolly; data blocks stream",
+   "type": "White caps tunnel signs; lime caps road labels",
+   "tags": [
+    "metaphor world",
+    "colour coding",
+    "data stream"
+   ]
+  },
+  {
+   "id": "S43",
+   "kind": "animation",
+   "start_s": 874.207,
+   "dur_s": 4.42,
+   "title": "Outputs vs Inputs tunnels",
+   "what": "Two tunnel mouths labelled OUTPUTS / INPUTS with coloured light-dot traffic; pull out to whole nerve tree.",
+   "motion": "Pull-back reveal",
+   "type": "White heavy caps signage",
+   "tags": [
+    "metaphor world",
+    "signage"
+   ]
+  },
+  {
+   "id": "S44",
+   "kind": "animation",
+   "start_s": 882.465,
+   "dur_s": 6.88,
+   "title": "Traffic in the tree",
+   "what": "Coloured dots stream along branching cables.",
+   "motion": "Continuous flow, camera glide",
+   "type": "none",
+   "tags": [
+    "metaphor world",
+    "particle flow"
+   ]
+  },
+  {
+   "id": "S45",
+   "kind": "animation",
+   "start_s": 893.643,
+   "dur_s": 5.46,
+   "title": "Implant to robot hand",
+   "what": "Implant broadcasts; robot hand mirrors the brain's grip.",
+   "motion": "Wifi arc loop; hand animates",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S46",
+   "kind": "animation",
+   "start_s": 909.408,
+   "dur_s": 5.63,
+   "title": "Closed loop diagram",
+   "what": "OUTPUT\u2192robot\u2192INPUT circuit draws around head silhouette, coloured dots run the loop.",
+   "motion": "Circuit line draw-on then dot flow",
+   "type": "Tiny white caps",
+   "tags": [
+    "circuit line",
+    "diagram"
+   ]
+  },
+  {
+   "id": "S47",
+   "kind": "animation",
+   "start_s": 953.327,
+   "dur_s": 6.84,
+   "title": "Superpowers lanes",
+   "what": "New lanes light up; pink icon tiles flip in with lime labels: SUPER HEARING, INFRARED VISION, SUPER SMELLING, KUNG FU SKILLS.",
+   "motion": "Tiles flip/pop in staggered left\u2192right",
+   "type": "Lime heavy caps micro-labels above pink tiles",
+   "tags": [
+    "metaphor world",
+    "icon stagger",
+    "humour"
+   ]
+  },
+  {
+   "id": "S48",
+   "kind": "animation",
+   "start_s": 965.923,
+   "dur_s": 11.22,
+   "title": "Broken road \u2192 spinal injury",
+   "what": "Red warning triangle on a broken highway; mannequin can't reach the cup (red 'no' sign).",
+   "motion": "Warning pulses; hard cut",
+   "type": "Red warning icon",
+   "tags": [
+    "metaphor world",
+    "warning"
+   ]
+  },
+  {
+   "id": "S49",
+   "kind": "animation",
+   "start_s": 982.69,
+   "dur_s": 5.0,
+   "title": "Blocked signal",
+   "what": "Lime signal path down the spine stops at a red break.",
+   "motion": "Line draw then red X pop",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "line draw"
+   ]
+  },
+  {
+   "id": "S50",
+   "kind": "animation",
+   "start_s": 998.623,
+   "dur_s": 6.88,
+   "title": "Motor cortex \u2192 walking",
+   "what": "Red motor cortex + lime 'MOTOR CORTEX' label; walker figure with OUTPUT/INPUT circuit; circular zoom inset on leg stimulator.",
+   "motion": "Inset circle scales in; circuit draws",
+   "type": "Lime heavy caps, 2 lines",
+   "tags": [
+    "3D explainer",
+    "magnifier inset",
+    "label"
+   ]
+  },
+  {
+   "id": "S51",
+   "kind": "animation",
+   "start_s": 1008.549,
+   "dur_s": 3.09,
+   "title": "Visual cortex",
+   "what": "Implant over the back of the brain; region pops red; 'VISUAL CORTEX' lime caps.",
+   "motion": "Region extrudes/pops; text hard-in",
+   "type": "Lime heavy caps, 2 lines",
+   "tags": [
+    "3D explainer",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S52",
+   "kind": "animation",
+   "start_s": 1032.698,
+   "dur_s": 5.21,
+   "title": "Implant \u2192 robot hand loop",
+   "what": "Recap of S45/S46.",
+   "motion": "Same as S46",
+   "type": "Tiny white caps",
+   "tags": [
+    "circuit line"
+   ]
+  },
+  {
+   "id": "S53",
+   "kind": "animation",
+   "start_s": 1039.288,
+   "dur_s": 4.0,
+   "title": "Bridge over the gap",
+   "what": "A bridge builds over the broken highway; loading ring then lime check-mark.",
+   "motion": "Bridge segments lay down left\u2192right; ring spin \u2192 check pop",
+   "type": "Lime check icon",
+   "tags": [
+    "metaphor world",
+    "icon"
+   ]
+  },
+  {
+   "id": "S54",
+   "kind": "animation",
+   "start_s": 1055.221,
+   "dur_s": 12.01,
+   "title": "End card",
+   "what": "Split screen: dark teal left with credits/next video, sage right with lime HUGE* logo, 'TO SUPPORT HUGE* IF TRUE, PLEASE CONSIDER SUBSCRIBING.' and Cleo avatar in lime ring between bouncing lime arrows.",
+   "motion": "Credits fade; arrows bob in toward avatar",
+   "type": "Heavy caps logo; small bold caps body",
+   "tags": [
+    "end card",
+    "brand system"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1172 @@
+{
+ "video": "YkEwyFpxWFc",
+ "title": "The Most Likely Place to Find Aliens",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 2.711,
+   "dur_s": 6.92,
+   "title": "Cold-open planet parade",
+   "what": "Four stylised exoplanets in fast succession (ringed green world, blue transit, purple storm world, lightning close-up). 'HUGE*' watermark bottom-right on every graphic.",
+   "motion": "Hard cuts on music, slow drift/rotation within each shot",
+   "type": "Persistent HUGE* bug, grey heavy caps ~2% height",
+   "tags": [
+    "3D explainer",
+    "cold open",
+    "watermark"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 14.973,
+   "dur_s": 0.83,
+   "title": "UFO pop-culture flash",
+   "what": "Black triangle UFO in green-tinted clouds.",
+   "motion": "0.8s flash cut",
+   "type": "none",
+   "tags": [
+    "cold open",
+    "montage"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 17.434,
+   "dur_s": 0.92,
+   "title": "Saucer flash",
+   "what": "Grey saucer on black.",
+   "motion": "0.9s flash cut",
+   "type": "Small '* SOURCE' credit bottom-left",
+   "tags": [
+    "cold open",
+    "montage",
+    "source credit"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 21.98,
+   "dur_s": 1.04,
+   "title": "Alien pyramid flash",
+   "what": "Glowing circuit-pattern pyramid.",
+   "motion": "1s flash cut",
+   "type": "Source credit",
+   "tags": [
+    "cold open",
+    "montage"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 25.525,
+   "dur_s": 0.25,
+   "title": "Glitch hit",
+   "what": "RGB datamosh glitch frame between montage beats.",
+   "motion": "0.25s glitch transition",
+   "type": "none",
+   "tags": [
+    "transition",
+    "glitch"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "animation",
+   "start_s": 26.443,
+   "dur_s": 6.71,
+   "title": "Methods teaser montage",
+   "what": "Rapid 0.5s flashes of every later explainer: transit light curve, DOPPLER METHOD card, EXOPLANET DETECTED alert, transmission spectroscopy, Drake Equation.",
+   "motion": "~0.5s per beat, hard cuts \u2014 a trailer of the film's own graphics",
+   "type": "Lime heavy caps titles, small lime alert pill with warning triangle",
+   "tags": [
+    "cold open",
+    "trailer montage",
+    "kinetic type"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "animation",
+   "start_s": 43.627,
+   "dur_s": 8.63,
+   "title": "Scale montage",
+   "what": "Star flare, Sun-to-planet distance line '~93\u00d710\u2076 km', Venera 13 '1982' date stamp, labelled solar system.",
+   "motion": "Dashed line draws; labels pop",
+   "type": "Lime numeric label boxes, white big year + small caption",
+   "tags": [
+    "stat callout",
+    "date stamp",
+    "labels"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "animation",
+   "start_s": 54.805,
+   "dur_s": 1.25,
+   "title": "Starshade flash",
+   "what": "Starshade blocking starlight (grey).",
+   "motion": "1.2s",
+   "type": "Source credit",
+   "tags": [
+    "cold open"
+   ]
+  },
+  {
+   "id": "S09",
+   "kind": "animation",
+   "start_s": 56.974,
+   "dur_s": 1.08,
+   "title": "Exoplanet map flash",
+   "what": "HUD map of known exoplanets.",
+   "motion": "1s",
+   "type": "HUD micro-type",
+   "tags": [
+    "HUD map"
+   ]
+  },
+  {
+   "id": "S10",
+   "kind": "animation",
+   "start_s": 59.434,
+   "dur_s": 3.3,
+   "title": "Biosignature + Dyson sphere",
+   "what": "Prism spectrum on planet, 'OXYGEN / OZONE' peaks '= \ud83d\udc7d?'; red Dyson-swarm star.",
+   "motion": "Spectrum bars fill; icons pop",
+   "type": "Tiny white caps chart labels; lime alien icon",
+   "tags": [
+    "diagram overlay",
+    "spectrum"
+   ]
+  },
+  {
+   "id": "S11",
+   "kind": "animation",
+   "start_s": 63.73,
+   "dur_s": 11.18,
+   "title": "HUGE* CONVERSATIONS title",
+   "what": "Lime asterisk on blue HUGE pattern, stacked HUGE outline/solid rows, giant cropped HU letters, 'CONVERSATIONS' with cropped outline repeats, then back to planets.",
+   "motion": "0.2s hard cuts on beats, letter crops pushing through",
+   "type": "Ultra-heavy grotesque, lime/blue/mauve colourways, outline + solid alternation",
+   "tags": [
+    "title sequence",
+    "kinetic type",
+    "pattern"
+   ]
+  },
+  {
+   "id": "S12",
+   "kind": "animation",
+   "start_s": 77.452,
+   "dur_s": 4.84,
+   "title": "Map of known exoplanets",
+   "what": "CRT-curved HUD: 'MAP OF KNOWN EXOPLANETS' header, radar dial top-right, star cloud around 'SUN' tag, grid floor; pulls out to the Milky Way.",
+   "motion": "Slow orbit + pull-back; HUD static; CRT barrel distortion + vignette",
+   "type": "Thin light sans HUD header, lime caps 'SUN' tag with leader line",
+   "tags": [
+    "HUD map",
+    "CRT frame",
+    "pull-back"
+   ]
+  },
+  {
+   "id": "S13",
+   "kind": "animation",
+   "start_s": 84.876,
+   "dur_s": 2.75,
+   "title": "Map \u2014 empty sky",
+   "what": "Same HUD, only the Sun with orbit rings and grid arcs.",
+   "motion": "Orbit",
+   "type": "HUD",
+   "tags": [
+    "HUD map"
+   ]
+  },
+  {
+   "id": "S14",
+   "kind": "overlay",
+   "start_s": 87.629,
+   "dur_s": 2.38,
+   "title": "Lower third + arrow \u2014 Sara Seager",
+   "what": "Lime block arrow points at guest, then the lime-asterisk name super.",
+   "motion": "Arrow slides in + bob; super wipes on",
+   "type": "White heavy caps name + small caps role",
+   "tags": [
+    "lower third",
+    "callout arrow"
+   ]
+  },
+  {
+   "id": "S15",
+   "kind": "animation",
+   "start_s": 94.845,
+   "dur_s": 5.17,
+   "title": "Transit spectroscopy",
+   "what": "Blue planet limb; white starlight line passes through the atmosphere and turns blue; white hand-drawn arrow; 'TRANSIT SPECTROSCOPY' lime caps.",
+   "motion": "Light line draws L\u2192R; arrow draw-on; text pop",
+   "type": "Lime heavy caps, 2 lines centred",
+   "tags": [
+    "diagram overlay",
+    "line draw",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S16",
+   "kind": "animation",
+   "start_s": 103.895,
+   "dur_s": 21.27,
+   "title": "First exoplanet 1995",
+   "what": "HUD map with '?' markers \u2192 observatory with '1995 HAUTE-PROVENCE' stamp \u2192 hot Jupiter with '51 PEGASI b ~50 LIGHT-YEARS'.",
+   "motion": "Map orbit; date stamp fade",
+   "type": "Big white year + small caption; lime planet name + white small distance",
+   "tags": [
+    "HUD map",
+    "date stamp",
+    "planet label"
+   ]
+  },
+  {
+   "id": "S17",
+   "kind": "animation",
+   "start_s": 129.296,
+   "dur_s": 5.88,
+   "title": "Viewfinder frame on stock",
+   "what": "Telescope dome and gas giant shown inside a rounded-corner bracket 'viewfinder' at left edge.",
+   "motion": "Slow push",
+   "type": "Gold rounded viewfinder bracket",
+   "tags": [
+    "framing device",
+    "borrowed footage"
+   ]
+  },
+  {
+   "id": "S18",
+   "kind": "animation",
+   "start_s": 142.309,
+   "dur_s": 7.8,
+   "title": "Disk & planets (viewfinder)",
+   "what": "Pink debris disk, red dwarf planet, viewfinder bracket.",
+   "motion": "Slow drift",
+   "type": "Bracket",
+   "tags": [
+    "framing device"
+   ]
+  },
+  {
+   "id": "S19",
+   "kind": "animation",
+   "start_s": 176.093,
+   "dur_s": 8.76,
+   "title": "Map with planet tags",
+   "what": "HUD map; lime name tags with data stack pop around the Sun.",
+   "motion": "Tags pop staggered; orbit",
+   "type": "Lime micro caps tags on dark plates",
+   "tags": [
+    "HUD map",
+    "label stagger"
+   ]
+  },
+  {
+   "id": "S20",
+   "kind": "overlay",
+   "start_s": 186.269,
+   "dur_s": 2.0,
+   "title": "'OUR STAR' on the prop",
+   "what": "Physical pink balloon 'star' on the table; lime 'OUR STAR' text tracked onto it.",
+   "motion": "Words pop word-by-word with slight scale-overshoot; tracked to object",
+   "type": "Lime heavy caps with dark offset shadow",
+   "tags": [
+    "tracked text",
+    "overlay",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S21",
+   "kind": "animation",
+   "start_s": 192.776,
+   "dur_s": 3.79,
+   "title": "TRANSIT METHOD reveal",
+   "what": "Planet transits a blue sun; 'TRANSIT METHOD' types in letter-by-letter in dark ink across the star surface.",
+   "motion": "Typewriter L\u2192R, ~2f/letter",
+   "type": "Dark navy heavy caps, wide tracking",
+   "tags": [
+    "kinetic type",
+    "typewriter"
+   ]
+  },
+  {
+   "id": "S22",
+   "kind": "animation",
+   "start_s": 201.618,
+   "dur_s": 2.54,
+   "title": "Transit (NASA sim)",
+   "what": "Black dot crosses a glowing star.",
+   "motion": "Linear",
+   "type": "Source credit",
+   "tags": [
+    "borrowed sim"
+   ]
+  },
+  {
+   "id": "S23",
+   "kind": "animation",
+   "start_s": 217.884,
+   "dur_s": 14.06,
+   "title": "Transit light curve",
+   "what": "Blue star + dashed orbit; planet passes; inset chart 'BRIGHTNESS (%) vs TIME' draws its lime curve in sync, '-1-2%' callout.",
+   "motion": "Graph line drawn in lockstep with the planet; callout pops at the dip",
+   "type": "Tiny white caps axis labels; lime plot line",
+   "tags": [
+    "data chart",
+    "synced draw-on"
+   ]
+  },
+  {
+   "id": "S24",
+   "kind": "animation",
+   "start_s": 235.61,
+   "dur_s": 10.34,
+   "title": "Wobble \u2192 common centre of mass",
+   "what": "Star wobbles on a white orbit ring, lime dashed tether to planet; blue 'COMMON CENTER OF MASS' label with arrow.",
+   "motion": "Circular orbit loop; label pop",
+   "type": "Blue heavy caps, 2 lines",
+   "tags": [
+    "diagram overlay",
+    "orbit"
+   ]
+  },
+  {
+   "id": "S25",
+   "kind": "animation",
+   "start_s": 249.458,
+   "dur_s": 11.64,
+   "title": "Doppler zoom",
+   "what": "Star glows; camera finds it in the galaxy, lime cone + circle magnifier inset of the star.",
+   "motion": "Magnifier scales from point; cone connects",
+   "type": "Lime ring stroke",
+   "tags": [
+    "magnifier inset"
+   ]
+  },
+  {
+   "id": "S26",
+   "kind": "animation",
+   "start_s": 267.058,
+   "dur_s": 7.88,
+   "title": "DOPPLER METHOD card",
+   "what": "Perspective-tilted lime-outlined card holds the star; 'DOPPLER METHOD' and 'RADIAL VELOCITY: 40 \u00b1 5.7 cm/s' readout.",
+   "motion": "Card swings in 3D; number ticks",
+   "type": "Lime heavy caps title; lime-box data label",
+   "tags": [
+    "diagram card",
+    "data readout"
+   ]
+  },
+  {
+   "id": "S27",
+   "kind": "animation",
+   "start_s": 280.197,
+   "dur_s": 6.46,
+   "title": "DIRECT IMAGING",
+   "what": "'DIRECT IMAGING' swoops in on a 3D arc then settles; red coronagraph image with white hand-drawn arrows to planets.",
+   "motion": "Text flies on curved path into place (ease-out); arrows draw on staggered",
+   "type": "Lime heavy caps",
+   "tags": [
+    "kinetic type",
+    "3D text",
+    "arrows"
+   ]
+  },
+  {
+   "id": "S28",
+   "kind": "animation",
+   "start_s": 297.756,
+   "dur_s": 10.01,
+   "title": "Bokeh star + inset orbit",
+   "what": "Glowing star with bokeh; circle inset shows planets orbiting; white arrow.",
+   "motion": "Inset scale-in",
+   "type": "none",
+   "tags": [
+    "magnifier inset"
+   ]
+  },
+  {
+   "id": "S29",
+   "kind": "animation",
+   "start_s": 328.954,
+   "dur_s": 22.81,
+   "title": "ASTROMETRY",
+   "what": "Starfield with spiral wobble glyphs; 'ASTROMETRY' blue caps; then lime 'EXOPLANET DETECTED' alert pill.",
+   "motion": "Text fade/scale; alert pops with warning triangle",
+   "type": "Blue heavy caps; lime alert UI",
+   "tags": [
+    "kinetic type",
+    "alert UI"
+   ]
+  },
+  {
+   "id": "S30",
+   "kind": "animation",
+   "start_s": 358.525,
+   "dur_s": 23.23,
+   "title": "Microlensing + GRAVITY",
+   "what": "Telescope/unseen star/distant star labels on a grid; Earth bending a wireframe grid with 'GRAVITY'; light paths bend.",
+   "motion": "Grid warps; dashed light rays draw",
+   "type": "Lime caps chip labels; big lime 'GRAVITY'",
+   "tags": [
+    "diagram overlay",
+    "grid warp",
+    "label chips"
+   ]
+  },
+  {
+   "id": "S31",
+   "kind": "animation",
+   "start_s": 390.724,
+   "dur_s": 19.85,
+   "title": "Map \u2014 Kepler field",
+   "what": "HUD map; Kepler's patch of sky as a tile cluster with lime '?'s; big lime arrow.",
+   "motion": "Tiles assemble; arrow pop",
+   "type": "HUD + lime glyphs",
+   "tags": [
+    "HUD map",
+    "arrow"
+   ]
+  },
+  {
+   "id": "S32",
+   "kind": "animation",
+   "start_s": 418.126,
+   "dur_s": 40.12,
+   "title": "Kepler mission",
+   "what": "Map \u2192 launch with '200\u2026' counter \u2192 tiled field \u2192 Kepler model \u2192 grid of 100+ planet spheres \u2192 map with KEPLER tag.",
+   "motion": "Counter ticks up; grid of planets fills in",
+   "type": "Big white numeric counter bottom-left",
+   "tags": [
+    "counter",
+    "HUD map",
+    "grid reveal"
+   ]
+  },
+  {
+   "id": "S33",
+   "kind": "animation",
+   "start_s": 460.293,
+   "dur_s": 4.55,
+   "title": "Planets stream out",
+   "what": "Golden particle stream of discovered planets from Kepler's patch.",
+   "motion": "Particles stream",
+   "type": "none",
+   "tags": [
+    "particle flow"
+   ]
+  },
+  {
+   "id": "S34",
+   "kind": "animation",
+   "start_s": 468.259,
+   "dur_s": 12.56,
+   "title": "Telescope + question marks",
+   "what": "Red observatory interior; green laser; night sky with lime '?'s.",
+   "motion": "Fade; ? pops",
+   "type": "Lime ?",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S35",
+   "kind": "animation",
+   "start_s": 489.572,
+   "dur_s": 5.17,
+   "title": "'IS ANYONE OUT THERE?'",
+   "what": "Ringed green planet; a tiny lime line of text appears above the horizon.",
+   "motion": "Small fade-in",
+   "type": "Small lime caps",
+   "tags": [
+    "kinetic type"
+   ]
+  },
+  {
+   "id": "S36",
+   "kind": "animation",
+   "start_s": 508.216,
+   "dur_s": 9.09,
+   "title": "Transit up close",
+   "what": "Planet silhouette with ring crosses blue sun \u2192 planet limb with light line + white arrow (reprise).",
+   "motion": "Line draw",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "reprise"
+   ]
+  },
+  {
+   "id": "S37",
+   "kind": "animation",
+   "start_s": 522.439,
+   "dur_s": 15.18,
+   "title": "Starlight vs transit spectrum",
+   "what": "Starlight passes through planet \u2192 'STARLIGHT ONLY' and 'DURING TRANSIT' rainbow bars, absorption lines labelled H\u2082O, CO, CO\u2082.",
+   "motion": "Bars slide up stacked; lines tick in with leader labels",
+   "type": "White heavy caps bar titles; tiny chemical labels",
+   "tags": [
+    "data chart",
+    "spectrum",
+    "labels"
+   ]
+  },
+  {
+   "id": "S38",
+   "kind": "animation",
+   "start_s": 545.545,
+   "dur_s": 4.84,
+   "title": "HD 209458 b typed",
+   "what": "Red hot-Jupiter; lime name types out with a cursor, then '150 LIGHT-YEARS AWAY'.",
+   "motion": "Typewriter with blinking cursor",
+   "type": "Lime heavy caps + white small caps",
+   "tags": [
+    "typewriter",
+    "planet label"
+   ]
+  },
+  {
+   "id": "S39",
+   "kind": "overlay",
+   "start_s": 562.27,
+   "dur_s": 4.17,
+   "title": "Paper with highlights",
+   "what": "Printed papers tilt into frame in 3D; lime highlighter marks the author and data points.",
+   "motion": "3D card slide + push-in; highlight wipes",
+   "type": "Lime highlighter on scanned paper",
+   "tags": [
+    "document callout",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S40",
+   "kind": "animation",
+   "start_s": 617.408,
+   "dur_s": 8.09,
+   "title": "Spectrum reprise",
+   "what": "Same as S37, final labelled state.",
+   "motion": "Same",
+   "type": "Same",
+   "tags": [
+    "data chart"
+   ]
+  },
+  {
+   "id": "S41",
+   "kind": "animation",
+   "start_s": 630.046,
+   "dur_s": 3.84,
+   "title": "Apple analogy",
+   "what": "Giant apple with a lighthouse beam; skin cracks with a white light zig-zag.",
+   "motion": "Crack draws down the apple",
+   "type": "none",
+   "tags": [
+    "analogy",
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S42",
+   "kind": "animation",
+   "start_s": 638.012,
+   "dur_s": 15.22,
+   "title": "Transit \u2192 apple",
+   "what": "Transit chart \u2192 planet limb \u2192 apple crack again.",
+   "motion": "Reprise",
+   "type": "none",
+   "tags": [
+    "analogy",
+    "reprise"
+   ]
+  },
+  {
+   "id": "S43",
+   "kind": "animation",
+   "start_s": 671.296,
+   "dur_s": 25.77,
+   "title": "Headline collage",
+   "what": "HUD map \u2192 news headline cards float in the starfield, overlap, one zooms forward with lime highlight on 'Earth-like'; ends on green exoplanet beside small 'EARTH'.",
+   "motion": "Cards pop in staggered, slight 3D drift, push on hero card",
+   "type": "Publisher fonts; lime highlighter swipe",
+   "tags": [
+    "headline collage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S44",
+   "kind": "animation",
+   "start_s": 699.157,
+   "dur_s": 13.26,
+   "title": "Telescopes to tiny Earth",
+   "what": "Telescope render, sunrise planet limb, Earth shrinking to a dot.",
+   "motion": "Pull-back",
+   "type": "Source credit",
+   "tags": [
+    "scale",
+    "borrowed render"
+   ]
+  },
+  {
+   "id": "S45",
+   "kind": "animation",
+   "start_s": 718.426,
+   "dur_s": 10.8,
+   "title": "EARTH vs Sun brightness",
+   "what": "Blue 'EARTH' label; dashed line to the Sun: '330,000x LESS MASSIVE', '10,000,000,000x FAINTER'.",
+   "motion": "Line draws, numbers fade up",
+   "type": "Blue heavy caps; white thin caps numbers",
+   "tags": [
+    "stat callout",
+    "comparison line"
+   ]
+  },
+  {
+   "id": "S46",
+   "kind": "animation",
+   "start_s": 744.827,
+   "dur_s": 8.55,
+   "title": "Red dwarf transit",
+   "what": "Earth limb \u2192 red dwarf with tiny planets.",
+   "motion": "Pull-out",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S47",
+   "kind": "overlay",
+   "start_s": 761.135,
+   "dur_s": 2.38,
+   "title": "Archival with arrow",
+   "what": "B/W historic photo inside viewfinder bracket; lime hand-drawn arrow points at person.",
+   "motion": "Arrow draws on",
+   "type": "Lime arrow",
+   "tags": [
+    "callout arrow",
+    "archival"
+   ]
+  },
+  {
+   "id": "S48",
+   "kind": "animation",
+   "start_s": 763.513,
+   "dur_s": 4.25,
+   "title": "Coronagraph imagery",
+   "what": "Real coronagraph frames.",
+   "motion": "Dissolve",
+   "type": "Source credit",
+   "tags": [
+    "borrowed footage"
+   ]
+  },
+  {
+   "id": "S49",
+   "kind": "animation",
+   "start_s": 770.395,
+   "dur_s": 5.09,
+   "title": "Eclipse corona",
+   "what": "Eclipse diamond ring \u2192 corona.",
+   "motion": "Cut",
+   "type": "Source credit",
+   "tags": [
+    "borrowed footage"
+   ]
+  },
+  {
+   "id": "S50",
+   "kind": "animation",
+   "start_s": 778.444,
+   "dur_s": 4.0,
+   "title": "Coronagraph optics",
+   "what": "Coronagraph image \u2192 3D optic stack with discs + concentric-ring inset.",
+   "motion": "Discs slide along axis",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S51",
+   "kind": "animation",
+   "start_s": 784.283,
+   "dur_s": 3.42,
+   "title": "Blocking starlight",
+   "what": "Occulted star fading glow.",
+   "motion": "Fade",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S52",
+   "kind": "animation",
+   "start_s": 859.192,
+   "dur_s": 3.25,
+   "title": "STARSHADE unfold",
+   "what": "Petal starshade unfurls beside a telescope; 'STARSHADE' lime caps.",
+   "motion": "Unfold animation (NASA), text pop",
+   "type": "Lime heavy caps",
+   "tags": [
+    "product reveal",
+    "hero word"
+   ]
+  },
+  {
+   "id": "S53",
+   "kind": "animation",
+   "start_s": 880.922,
+   "dur_s": 21.15,
+   "title": "Starshade in formation",
+   "what": "Starshade flies, cut to its shadow blocking starlight.",
+   "motion": "Long move",
+   "type": "Source credit",
+   "tags": [
+    "borrowed render"
+   ]
+  },
+  {
+   "id": "S54",
+   "kind": "animation",
+   "start_s": 906.03,
+   "dur_s": 6.51,
+   "title": "Light waves \u2192 rings",
+   "what": "Star with lime circle marker; diffraction rings with white arcs drawn around.",
+   "motion": "Arcs draw clockwise",
+   "type": "Lime circle",
+   "tags": [
+    "diagram overlay",
+    "arcs"
+   ]
+  },
+  {
+   "id": "S55",
+   "kind": "animation",
+   "start_s": 915.915,
+   "dur_s": 6.59,
+   "title": "Wave diffraction diagram",
+   "what": "White vertical light bars bend around a post; lime arrow; cut to galaxy ripples.",
+   "motion": "Bars bend (animated); arrow draw",
+   "type": "Lime arrow",
+   "tags": [
+    "diagram",
+    "2D motion"
+   ]
+  },
+  {
+   "id": "S56",
+   "kind": "animation",
+   "start_s": 934.058,
+   "dur_s": 4.75,
+   "title": "Starshade shadow",
+   "what": "Bright field resolves to petal shadow revealing planets.",
+   "motion": "Exposure fade",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S57",
+   "kind": "animation",
+   "start_s": 986.444,
+   "dur_s": 6.42,
+   "title": "Habitable Worlds Observatory",
+   "what": "Hubble over Earth \u2192 gold future telescope.",
+   "motion": "Slow orbit",
+   "type": "Source credit",
+   "tags": [
+    "borrowed render"
+   ]
+  },
+  {
+   "id": "S58",
+   "kind": "animation",
+   "start_s": 1053.678,
+   "dur_s": 16.81,
+   "title": "LIFE AS WE DON'T KNOW IT",
+   "what": "Planet montage \u2192 purple lightning world; 'LIFE AS WE / DON'T KNOW IT' white + lime words.",
+   "motion": "Words pop line-by-line",
+   "type": "White + lime heavy caps",
+   "tags": [
+    "kinetic type",
+    "hero line"
+   ]
+  },
+  {
+   "id": "S59",
+   "kind": "animation",
+   "start_s": 1093.342,
+   "dur_s": 28.03,
+   "title": "Biosignatures",
+   "what": "Spectrum on planet with OXYGEN/WATER/OZONE peaks '= \ud83d\udc7d?'; PHOSPHINE molecule with formula; Earth with molecules + circle inset of microbes.",
+   "motion": "Molecules float in; peak labels pop; inset scales",
+   "type": "White caps chemical names, lime formula",
+   "tags": [
+    "diagram overlay",
+    "molecules"
+   ]
+  },
+  {
+   "id": "S60",
+   "kind": "animation",
+   "start_s": 1144.894,
+   "dur_s": 3.84,
+   "title": "Alien inset",
+   "what": "Planet with lime cone + circle inset (illustrated aliens).",
+   "motion": "Inset scale-in",
+   "type": "none",
+   "tags": [
+    "magnifier inset",
+    "humour"
+   ]
+  },
+  {
+   "id": "S61",
+   "kind": "overlay",
+   "start_s": 1183.641,
+   "dur_s": 7.59,
+   "title": "Ad \u2014 icon callouts",
+   "what": "Dog eating; coloured icon circles pop with labels (DIGESTION, IMMUNE SYSTEM, ORGAN HEALTH); magnifier inset of kibble.",
+   "motion": "Icons pop staggered top\u2192bottom",
+   "type": "Red/lime/blue heavy caps per icon",
+   "tags": [
+    "ad",
+    "icon stagger",
+    "magnifier inset"
+   ]
+  },
+  {
+   "id": "S62",
+   "kind": "animation",
+   "start_s": 1193.984,
+   "dur_s": 16.48,
+   "title": "Ad \u2014 dog x-ray diagram",
+   "what": "Glass dog on teal grid, organs, icon circles linked by dashed lines; cut to red villi with 'FREE RADICALS' + warning.",
+   "motion": "Dashed lines draw; icons pop",
+   "type": "Red heavy caps",
+   "tags": [
+    "ad",
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S63",
+   "kind": "animation",
+   "start_s": 1216.59,
+   "dur_s": 5.01,
+   "title": "Ad \u2014 free radicals around dog",
+   "what": "Red circles with red dashed tethers pop around the puppy.",
+   "motion": "Staggered pop",
+   "type": "none",
+   "tags": [
+    "ad",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S64",
+   "kind": "overlay",
+   "start_s": 1233.732,
+   "dur_s": 3.13,
+   "title": "Ad URL super",
+   "what": "'HILLSPET.COM/SCIENCEDOESMORE' lime heavy caps.",
+   "motion": "Pop",
+   "type": "Lime heavy caps",
+   "tags": [
+    "ad",
+    "url super"
+   ]
+  },
+  {
+   "id": "S65",
+   "kind": "animation",
+   "start_s": 1236.861,
+   "dur_s": 5.55,
+   "title": "Purple world",
+   "what": "Purple lightning planet reprise.",
+   "motion": "Cut",
+   "type": "none",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S66",
+   "kind": "animation",
+   "start_s": 1275.399,
+   "dur_s": 25.53,
+   "title": "Technosignatures",
+   "what": "Smokestacks with CFC-12, SF\u2086, NF\u2083 labelled molecules; radio dishes with message pills ('HELLO FROM\u2026'); Dyson-swarm star.",
+   "motion": "Labels pop; pills type in",
+   "type": "White caps names + lime formulas; lime message pills",
+   "tags": [
+    "diagram overlay",
+    "labels",
+    "messages"
+   ]
+  },
+  {
+   "id": "S67",
+   "kind": "animation",
+   "start_s": 1340.005,
+   "dur_s": 1.08,
+   "title": "Project Hail Mary art",
+   "what": "Red stylised starfield art.",
+   "motion": "Cut",
+   "type": "Source credit",
+   "tags": [
+    "borrowed art"
+   ]
+  },
+  {
+   "id": "S68",
+   "kind": "animation",
+   "start_s": 1359.191,
+   "dur_s": 10.68,
+   "title": "Earth as a signal",
+   "what": "Pixel-dot blue Earth; lime squiggle signals; red rings pulse out; lime '?'s.",
+   "motion": "Rings ripple out; ? pop",
+   "type": "Lime ?",
+   "tags": [
+    "3D explainer",
+    "ripples"
+   ]
+  },
+  {
+   "id": "S69",
+   "kind": "animation",
+   "start_s": 1392.725,
+   "dur_s": 2.92,
+   "title": "Pale blue dot",
+   "what": "Earth rotating.",
+   "motion": "Slow rotation",
+   "type": "Source credit",
+   "tags": [
+    "borrowed footage"
+   ]
+  },
+  {
+   "id": "S70",
+   "kind": "animation",
+   "start_s": 1399.398,
+   "dur_s": 6.26,
+   "title": "Map with targets",
+   "what": "HUD map with many lime planet tags.",
+   "motion": "Orbit, tags pop",
+   "type": "Lime micro tags",
+   "tags": [
+    "HUD map"
+   ]
+  },
+  {
+   "id": "S71",
+   "kind": "animation",
+   "start_s": 1409.617,
+   "dur_s": 12.47,
+   "title": "Habitable zone",
+   "what": "Star system orbits; lime check-mark rings; habitable zone band glows lime; water/molecule icons with red '?'s.",
+   "motion": "Checks pop; band fades up",
+   "type": "Icons",
+   "tags": [
+    "diagram overlay",
+    "icons"
+   ]
+  },
+  {
+   "id": "S72",
+   "kind": "animation",
+   "start_s": 1436.101,
+   "dur_s": 6.76,
+   "title": "The Drake Equation",
+   "what": "Heading 'THE DRAKE EQUATION' + subtitle; terms R* \u00d7 fp \u00d7 ne \u00d7 fl \u00d7 fi \u00d7 fc \u00d7 L type in one by one, each with a leader line to a small caption.",
+   "motion": "Each term pops L\u2192R (~0.4s apart), leader line drops, caption fades",
+   "type": "Lime ultra-heavy equation letters + white subscript; tiny white caps captions",
+   "tags": [
+    "equation build",
+    "kinetic type"
+   ]
+  },
+  {
+   "id": "S73",
+   "kind": "animation",
+   "start_s": 1451.283,
+   "dur_s": 13.47,
+   "title": "The Seager Equation",
+   "what": "Same build: 'THE SEAGER EQUATION' with icon above each term (stars, sun, zone, planet, life, molecules).",
+   "motion": "Same stagger + icon pops",
+   "type": "Same",
+   "tags": [
+    "equation build",
+    "icon stagger"
+   ]
+  },
+  {
+   "id": "S74",
+   "kind": "animation",
+   "start_s": 1663.078,
+   "dur_s": 20.31,
+   "title": "Venus \u2014 Earth's evil twin",
+   "what": "Venus; lime '\"EARTH'S EVIL TWIN\"'; side-by-side with Earth between lime dashed lines; distance line to Sun.",
+   "motion": "Text pop; dashed guides slide in",
+   "type": "Lime heavy caps with quotes; lime-box distance label",
+   "tags": [
+    "comparison",
+    "hero word",
+    "guides"
+   ]
+  },
+  {
+   "id": "S75",
+   "kind": "animation",
+   "start_s": 1700.741,
+   "dur_s": 6.3,
+   "title": "Venus surface temps",
+   "what": "Rocky surface with red temp tags ('AVERAGE SURFACE TEMPERATURE 464\u00b0C'); Venera 13 render with lime label; '1982 VENERA 13 LANDING'.",
+   "motion": "Tags pop; number change",
+   "type": "Red box white numerals + small caps; lime caps title",
+   "tags": [
+    "stat callout",
+    "date stamp"
+   ]
+  },
+  {
+   "id": "S76",
+   "kind": "animation",
+   "start_s": 1711.627,
+   "dur_s": 9.13,
+   "title": "Temperature vs altitude chart",
+   "what": "Over the Venus clouds, an axis chart (ALTITUDE vs TEMPERATURE) draws; curve draws red\u2192yellow\u2192blue.",
+   "motion": "Axes grow, curve draws with gradient",
+   "type": "Thin white caps axis labels, white numerals",
+   "tags": [
+    "data chart",
+    "synced draw-on"
+   ]
+  },
+  {
+   "id": "S77",
+   "kind": "animation",
+   "start_s": 1723.472,
+   "dur_s": 8.67,
+   "title": "Habitable layer",
+   "what": "Same chart, '~30\u00b0C' lime marker at 50km; descent through green cloud; probe in yellow clouds.",
+   "motion": "Marker pop; camera descends",
+   "type": "Lime box readout",
+   "tags": [
+    "data chart",
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S78",
+   "kind": "overlay",
+   "start_s": 1735.943,
+   "dur_s": 10.72,
+   "title": "Archival with viewfinder",
+   "what": "Hand drawing on a chart, inside viewfinder bracket.",
+   "motion": "none",
+   "type": "Bracket",
+   "tags": [
+    "framing device",
+    "archival"
+   ]
+  },
+  {
+   "id": "S79",
+   "kind": "animation",
+   "start_s": 1753.919,
+   "dur_s": 11.14,
+   "title": "Venus missions",
+   "what": "Probe approaches Venus, balloon descends; Starship launch.",
+   "motion": "Long moves",
+   "type": "Source credit",
+   "tags": [
+    "3D explainer",
+    "borrowed render"
+   ]
+  },
+  {
+   "id": "S80",
+   "kind": "animation",
+   "start_s": 1792.916,
+   "dur_s": 3.17,
+   "title": "Return sample",
+   "what": "Balloon/rocket over Venus; lime curved arrow + 'RETURN SAMPLE'.",
+   "motion": "Arrow draws, text pops",
+   "type": "Lime heavy caps",
+   "tags": [
+    "arrow",
+    "label"
+   ]
+  },
+  {
+   "id": "S81",
+   "kind": "animation",
+   "start_s": 1883.882,
+   "dur_s": 5.76,
+   "title": "Venus globe \u2192 control room",
+   "what": "Desk globe of Venus \u2192 wall of mission-control monitors with lime UI.",
+   "motion": "Push-in; screens flicker on",
+   "type": "UI",
+   "tags": [
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S82",
+   "kind": "animation",
+   "start_s": 1922.963,
+   "dur_s": 5.51,
+   "title": "Balloon in clouds",
+   "what": "Probe drifts in yellow cloud.",
+   "motion": "Drift",
+   "type": "Source credit",
+   "tags": [
+    "borrowed render"
+   ]
+  },
+  {
+   "id": "S83",
+   "kind": "animation",
+   "start_s": 2089.879,
+   "dur_s": 13.97,
+   "title": "Ordered planetary system",
+   "what": "HUD map; telescope; labelled solar system with 'ORDERED PLANETARY SYSTEM' header typing in.",
+   "motion": "Header types; labels pop",
+   "type": "Lime heavy caps + small white subtitle; planet names in colour",
+   "tags": [
+    "labels",
+    "kinetic type"
+   ]
+  },
+  {
+   "id": "S84",
+   "kind": "animation",
+   "start_s": 2330.912,
+   "dur_s": 14.97,
+   "title": "End card",
+   "what": "Same split end card as Neuralink: teal credits left, sage panel with lime HUGE* and avatar between arrows.",
+   "motion": "Credits fade/scroll",
+   "type": "Heavy caps",
+   "tags": [
+    "end card"
+   ]
+  }
+ ]
+}

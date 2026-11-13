@@ -1,0 +1,442 @@
+{
+ "video": "N0-ZZ9pLyWw",
+ "title": "What If You Just Keep Digging?",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 0.918,
+   "dur_s": 3.17,
+   "title": "Ride down the hole",
+   "what": "Flat 2D illustrated Earth cross-section (vector, grain texture); a little blue drill pod \u2014 the film's recurring vehicle \u2014 descends a shaft toward the glowing core.",
+   "motion": "Slow continuous push-in down the shaft",
+   "type": "none",
+   "tags": [
+    "2D illustration",
+    "vehicle character",
+    "cross-section"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 6.089,
+   "dur_s": 5.55,
+   "title": "How deep is deep?",
+   "what": "Side cross-section: depth readouts in white heavy numerals with a lime dot pin (1.1KM \u2192 3.5KM \u2192 8.0KM) as the shaft grows; the Mariana Trench and Everest join for scale with lime caps tags.",
+   "motion": "Camera trucks right as the number counts up; shaft extends linearly",
+   "type": "White heavy numerals + lime pin; lime caps place tags",
+   "tags": [
+    "counter",
+    "scale comparison",
+    "2D illustration"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 14.014,
+   "dur_s": 17.06,
+   "title": "US vs USSR / Kola",
+   "what": "Two shafts with flags and lime depth labels (182M vs 10M); Kola borehole drops to 12.2 KM with a white bracket.",
+   "motion": "Bracket draws down; number pops",
+   "type": "Lime numerals + small white caps unit",
+   "tags": [
+    "comparison",
+    "bracket",
+    "counter"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 33.533,
+   "dur_s": 15.64,
+   "title": "Fantasy core tropes",
+   "what": "Cartoon tropes: a hero in the pod, a UFO, dinosaur fossils, 'WHAT'S REALLY GOING ON?' in lime stacked caps; the depth thermometer HUD appears at left.",
+   "motion": "Quick gag cuts; text pops line by line",
+   "type": "Lime heavy caps 4 lines",
+   "tags": [
+    "2D illustration",
+    "humour",
+    "hero word",
+    "depth gauge"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 51.051,
+   "dur_s": 82.12,
+   "title": "Drop, HUGE* title, crust",
+   "what": "Pod lowered by a gantry ('DROP' button) into lava; borrowed cartoon cameo; HUGE* title sequence; '~40KM' crust depth with a long white bracket; Kola photo inset with '12,262M' caption; depth gauge fills.",
+   "motion": "Mixed: title cuts every 3\u20136f; bracket draws; gauge fill linear",
+   "type": "White heavy caps numbers; lime gauge readout",
+   "tags": [
+    "title sequence",
+    "depth gauge",
+    "bracket",
+    "2D illustration"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "animation",
+   "start_s": 149.483,
+   "dur_s": 12.68,
+   "title": "Email + document zoom",
+   "what": "A recreated email from a scientist; camera pushes into scanned text where phrases get lime highlights ('moonshot').",
+   "motion": "Slow push-in, depth-of-field blur on surrounding text, highlight wipes",
+   "type": "Email UI font; lime highlighter",
+   "tags": [
+    "document callout",
+    "highlighter",
+    "DOF"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "animation",
+   "start_s": 168.126,
+   "dur_s": 48.59,
+   "title": "THE MANTLE chapter",
+   "what": "'.2%' lime stat beside a cut-away Earth with the pod badge; chapter card 'THE MANTLE' in fiery textured heavy caps on dark red; layer labels with lime dot pins (LITHOSPHERE, ASTHENOSPHERE); temperature '1300\u00b0C'; convection shown by big white curved arrows; depth gauge counting km.",
+   "motion": "Chapter card hard cut; labels pop with leader lines; arrows animate along their curves",
+   "type": "Fire-textured heavy caps chapter title; white caps layer labels with lime dots",
+   "tags": [
+    "chapter card",
+    "stat callout",
+    "label pins",
+    "flow arrows",
+    "depth gauge"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "animation",
+   "start_s": 233.024,
+   "dur_s": 6.01,
+   "title": "Mantle convection",
+   "what": "Convection cells as looping white arrows; the probe rides up and down; gauge readout keeps ticking (2,059 \u2192 2,651 km).",
+   "motion": "Arrows travel along loops (linear); counter ticks",
+   "type": "Lime gauge numerals",
+   "tags": [
+    "flow arrows",
+    "depth gauge",
+    "counter"
+   ]
+  },
+  {
+   "id": "S09",
+   "kind": "animation",
+   "start_s": 244.327,
+   "dur_s": 6.92,
+   "title": "Remote interview on paper",
+   "what": "Two video-call panels in dark-teal frames on a cream paper board; tiny lime/teal dot pair top-left as a bullet.",
+   "motion": "Panels hold; slight drift",
+   "type": "none",
+   "tags": [
+    "framed interview",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S10",
+   "kind": "animation",
+   "start_s": 251.877,
+   "dur_s": 15.01,
+   "title": "Guest name pill",
+   "what": "Single large framed guest with a rounded dark-teal pill caption at the bottom ('DR. MEGAN NEWCOMBE, GEOLOGIST AND VOLCANOLOGIST, UMD'); layout swaps between one and two panels.",
+   "motion": "Panels resize and slide between layouts",
+   "type": "White caps in a dark pill with lime keyline",
+   "tags": [
+    "framed interview",
+    "lower third pill"
+   ]
+  },
+  {
+   "id": "S11",
+   "kind": "animation",
+   "start_s": 281.656,
+   "dur_s": 12.56,
+   "title": "Newton weighs the Earth",
+   "what": "Portrait on graph paper beside an illustrated planet with formula; density arrows; dissolve to a cut-away Earth with 'THE CORE' lime label.",
+   "motion": "Arrows pop inward; cross-dissolve",
+   "type": "Handwritten formula; lime caps label",
+   "tags": [
+    "2D illustration",
+    "label"
+   ]
+  },
+  {
+   "id": "S12",
+   "kind": "animation",
+   "start_s": 298.507,
+   "dur_s": 25.98,
+   "title": "Seismic waves",
+   "what": "Rays fan out from an earthquake through the planet; P-wave/S-wave diagram on dark board; seismograph traces scroll.",
+   "motion": "Rays draw outward radially; waves propagate",
+   "type": "Thin white caps diagram labels",
+   "tags": [
+    "diagram",
+    "ray draw",
+    "2D illustration"
+   ]
+  },
+  {
+   "id": "S13",
+   "kind": "animation",
+   "start_s": 330.038,
+   "dur_s": 28.74,
+   "title": "S-wave shadow \u2192 OUTER CORE",
+   "what": "Shadow zone forms (lime arc on the rim, 'S WAVE SHADOW'); dashed circle reveals 'OUTER CORE'; the pod dives in; '4,400\u00b0 C' lime stat; MANTLE / OUTER CORE labels in the cross-section.",
+   "motion": "Rays draw, arc grows, dashed circle draws, labels pop",
+   "type": "Lime heavy caps; dark-red/yellow layer names",
+   "tags": [
+    "diagram",
+    "hero word",
+    "stat callout"
+   ]
+  },
+  {
+   "id": "S14",
+   "kind": "animation",
+   "start_s": 362.279,
+   "dur_s": 10.43,
+   "title": "Magnetic field",
+   "what": "Core with white field lines that grow around it, then solar-wind streaks bend around the field.",
+   "motion": "Lines draw outward; streaks flow",
+   "type": "none",
+   "tags": [
+    "diagram",
+    "flow lines"
+   ]
+  },
+  {
+   "id": "S15",
+   "kind": "animation",
+   "start_s": 373.665,
+   "dur_s": 9.13,
+   "title": "Compass and flip",
+   "what": "Blue/red field lines and a compass whose needle swings as the field flips.",
+   "motion": "Needle rotates with ease-in-out; lines morph",
+   "type": "N/S letters",
+   "tags": [
+    "diagram",
+    "icon"
+   ]
+  },
+  {
+   "id": "S16",
+   "kind": "animation",
+   "start_s": 384.801,
+   "dur_s": 4.71,
+   "title": "Interview board",
+   "what": "Two-panel interview on paper.",
+   "motion": "Hold",
+   "type": "none",
+   "tags": [
+    "framed interview"
+   ]
+  },
+  {
+   "id": "S17",
+   "kind": "animation",
+   "start_s": 390.599,
+   "dur_s": 29.24,
+   "title": "Seafloor stripes + timeline",
+   "what": "Spreading ridge block diagram with magma; interview; magnetic-reversal barcode timeline with era labels; stratigraphic column with lime arrows.",
+   "motion": "Block extrudes; barcode pans",
+   "type": "Small caps era labels; lime arrows",
+   "tags": [
+    "diagram",
+    "timeline",
+    "framed interview"
+   ]
+  },
+  {
+   "id": "S18",
+   "kind": "animation",
+   "start_s": 425.258,
+   "dur_s": 45.05,
+   "title": "THE INNER CORE chapter",
+   "what": "Layer stack legend (CRUST/UPPER MANTLE/LOWER MANTLE/OUTER CORE) with lime labels; iron rain; pod in molten yellow with gauge; fiery 'THE INNER CORE' chapter card; dark planet with red glow and '5,400\u00b0 C' stat.",
+   "motion": "Chapter hard cut; stat fades up",
+   "type": "Fire-textured chapter caps; lime legend labels",
+   "tags": [
+    "chapter card",
+    "legend",
+    "stat callout"
+   ]
+  },
+  {
+   "id": "S19",
+   "kind": "animation",
+   "start_s": 472.722,
+   "dur_s": 2.59,
+   "title": "Core ignites",
+   "what": "Inner core turns from dark iron to glowing yellow.",
+   "motion": "Colour cross-fade",
+   "type": "none",
+   "tags": [
+    "2D illustration"
+   ]
+  },
+  {
+   "id": "S20",
+   "kind": "animation",
+   "start_s": 476.935,
+   "dur_s": 19.94,
+   "title": "How we know: paper cards",
+   "what": "Rays bend through the core; diagram cards (scanned textbook figures) fan in from the right as a stack.",
+   "motion": "Cards slide in and rotate slightly, stacking",
+   "type": "Scanned figures",
+   "tags": [
+    "card stack",
+    "diagram"
+   ]
+  },
+  {
+   "id": "S21",
+   "kind": "animation",
+   "start_s": 499.124,
+   "dur_s": 6.38,
+   "title": "Iron crystal magnifier",
+   "what": "Lime dot on the inner core expands into a magnifier circle with a dark-teal cone showing an iron lattice.",
+   "motion": "Circle scales from the dot, ease-out",
+   "type": "none",
+   "tags": [
+    "magnifier inset"
+   ]
+  },
+  {
+   "id": "S22",
+   "kind": "animation",
+   "start_s": 511.761,
+   "dur_s": 5.71,
+   "title": "Inner core rotation",
+   "what": "Cut-away layers; the inner core spins with white curved rotation arrows.",
+   "motion": "Loop rotation; arrows draw",
+   "type": "none",
+   "tags": [
+    "diagram",
+    "flow arrows"
+   ]
+  },
+  {
+   "id": "S23",
+   "kind": "animation",
+   "start_s": 529.404,
+   "dur_s": 8.05,
+   "title": "Rotation data",
+   "what": "Paper chart cards beside the spinning core; then a clean sine curve (blue\u2192orange) with '~70 YEARS' period brackets.",
+   "motion": "Cards slide; curve draws L\u2192R",
+   "type": "Small caps labels",
+   "tags": [
+    "data chart",
+    "card stack",
+    "curve draw"
+   ]
+  },
+  {
+   "id": "S24",
+   "kind": "overlay",
+   "start_s": 537.454,
+   "dur_s": 3.75,
+   "title": "Headlines over the host",
+   "what": "Headlines type over the host's side of the frame (white text with lime-highlighted key words), one after another.",
+   "motion": "Each headline types/fades in ~0.6s, replaces the last",
+   "type": "White serif/sans headline with lime key words",
+   "tags": [
+    "headline overlay",
+    "overlay",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S25",
+   "kind": "animation",
+   "start_s": 541.207,
+   "dur_s": 18.73,
+   "title": "Welcome to the center",
+   "what": "Orbit diagram with core labels; pod drills through yellow core with debris; gauge hits 6,000 km; 'WELCOME TO THE CENTER' white caps with red pressure arrows.",
+   "motion": "Drill spin loop; arrows pulse inward",
+   "type": "White heavy caps",
+   "tags": [
+    "vehicle character",
+    "depth gauge",
+    "hero line"
+   ]
+  },
+  {
+   "id": "S26",
+   "kind": "animation",
+   "start_s": 561.06,
+   "dur_s": 23.57,
+   "title": "Depth recap",
+   "what": "Readouts at 850 KM / 4,284 KM / 6,296 KM with lime dot pins as the camera dives; '?' inner core; Science News card with lime highlight.",
+   "motion": "Numbers pop at each layer; headline card pops",
+   "type": "Lime outlined numerals + white mi line",
+   "tags": [
+    "counter",
+    "label pins",
+    "headline"
+   ]
+  },
+  {
+   "id": "S27",
+   "kind": "animation",
+   "start_s": 590.757,
+   "dur_s": 2.79,
+   "title": "Field simulation",
+   "what": "Borrowed 3D field-line simulation then the house compass diagram.",
+   "motion": "Cut",
+   "type": "none",
+   "tags": [
+    "borrowed sim",
+    "diagram"
+   ]
+  },
+  {
+   "id": "S28",
+   "kind": "animation",
+   "start_s": 599.14,
+   "dur_s": 2.42,
+   "title": "Seismic simulation",
+   "what": "Borrowed globe simulation with data panel.",
+   "motion": "Cut",
+   "type": "Sim UI",
+   "tags": [
+    "borrowed sim"
+   ]
+  },
+  {
+   "id": "S29",
+   "kind": "animation",
+   "start_s": 605.897,
+   "dur_s": 7.88,
+   "title": "Pull back out",
+   "what": "Zoom out from the core to the whole planet.",
+   "motion": "Long pull-back, ease-in-out",
+   "type": "none",
+   "tags": [
+    "camera move",
+    "2D illustration"
+   ]
+  },
+  {
+   "id": "S30",
+   "kind": "animation",
+   "start_s": 616.241,
+   "dur_s": 12.6,
+   "title": "Recap + end card",
+   "what": "Gantry drop, convection, Cleo standing on the surface with the gauge at 0 m; HUGE* end card with credits.",
+   "motion": "Quick recap cuts",
+   "type": "House end card",
+   "tags": [
+    "recap",
+    "end card"
+   ]
+  }
+ ]
+}

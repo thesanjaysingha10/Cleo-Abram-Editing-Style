@@ -1,0 +1,559 @@
+{
+ "video": "pfIWxFIVP_Y",
+ "title": "The Shoe That Broke Running",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 33.659,
+   "dur_s": 4.09,
+   "title": "Exploded super shoe",
+   "what": "On a white crumpled-paper stage with a red running-track mat, the shoe explodes into 5 layers; lime dots with dotted leader lines and numbered labels 1\u20135; then torn-paper headline tags ('Tech Doping: a Serious Threat') pin around it.",
+   "motion": "Layers separate vertically (ease-out), labels pop in order, paper tags slap on with a slight tilt",
+   "type": "Lime numerals; italic serif headlines on orange/blue tags",
+   "tags": [
+    "exploded view",
+    "numbered callouts",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 53.929,
+   "dur_s": 9.34,
+   "title": "Cold-open cut-out collage",
+   "what": "Photo cut-outs of runners' shoes stack on the paper/track stage; then a grid of old sports gear \u2192 modern versions with lime down-arrows.",
+   "motion": "Cut-outs drop in staggered with a hard shadow; arrows pop row by row",
+   "type": "none",
+   "tags": [
+    "collage",
+    "before/after grid",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 85.043,
+   "dur_s": 1.13,
+   "title": "Blade prosthesis tease",
+   "what": "Running blade on the track mat, lime arrows show ground force.",
+   "motion": "Arrow pops",
+   "type": "none",
+   "tags": [
+    "3D explainer",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 88.171,
+   "dur_s": 0.46,
+   "title": "Shoe flash",
+   "what": "Shoe close-up on a gradient plinth.",
+   "motion": "0.5s flash",
+   "type": "none",
+   "tags": [
+    "cold open"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 92.217,
+   "dur_s": 0.83,
+   "title": "Shoe swarm",
+   "what": "Dozens of cut-out shoes fly past camera in a vortex, small lime era tags.",
+   "motion": "Fast scale-through, 0.8s",
+   "type": "Tiny lime year tags",
+   "tags": [
+    "cold open",
+    "cut-out swarm"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "animation",
+   "start_s": 96.388,
+   "dur_s": 7.47,
+   "title": "HUGE* title",
+   "what": "Standard house title: cropped letters, colourway swaps, asterisk pattern, '*if true', lime HUGE*.",
+   "motion": "Hard cuts every 3\u20136f",
+   "type": "House title face",
+   "tags": [
+    "title sequence"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "animation",
+   "start_s": 107.524,
+   "dur_s": 0.67,
+   "title": "Foam on fire",
+   "what": "Shoe foam composited as a flaming lattice in a glass case beside the host.",
+   "motion": "Hard flash in a montage",
+   "type": "none",
+   "tags": [
+    "VFX composite",
+    "cold open"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "animation",
+   "start_s": 115.449,
+   "dur_s": 24.82,
+   "title": "A guide to banning stuff",
+   "what": "Graph-paper stage; slanted italic title 'A GUIDE TO BANNING STUFF:' with blue outline and lime fill; a decision tree of glossy pill buttons (blue\u2192pink 'IS IT DANGEROUS?', red YES/BANNED, lime NO/ALLOWED) grows; WADA rule cards with lime highlights and inset footage pop in beside it.",
+   "motion": "Connector lines draw down, pills pop 115\u2192100 in order, camera pans down the tree",
+   "type": "Heavy italic caps title with outline; white caps on glossy gradient pills",
+   "tags": [
+    "flowchart",
+    "pill buttons",
+    "paper stage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S09",
+   "kind": "animation",
+   "start_s": 145.604,
+   "dur_s": 3.88,
+   "title": "Spirit of the sport",
+   "what": "Camera follows the tree's NO branch to the next pill 'IS IT AGAINST THE \"SPIRIT\" OF THE SPORT?'.",
+   "motion": "Pan down along connector",
+   "type": "Pill buttons",
+   "tags": [
+    "flowchart"
+   ]
+  },
+  {
+   "id": "S10",
+   "kind": "animation",
+   "start_s": 154.863,
+   "dur_s": 8.55,
+   "title": "Question stack",
+   "what": "Pills stack in a list: CAN EVERYONE USE IT? / FAIR TO RECORDS? / DOES IT 'ARTIFICIALLY ENHANCE'?",
+   "motion": "Pills pop in one by one, ~10f apart",
+   "type": "Pill buttons",
+   "tags": [
+    "flowchart",
+    "list stagger"
+   ]
+  },
+  {
+   "id": "S11",
+   "kind": "animation",
+   "start_s": 168.668,
+   "dur_s": 16.14,
+   "title": "Framed archive in the bleachers",
+   "what": "Archival swim footage in a thick orange\u2192lime gradient frame set on a 3D stadium stage (floodlights, bleachers, track); big lime year '1972'/'1976' top-right with dark outline; blue splat sticker bottom-left; becomes the '# OF RECORDS BROKEN' chart.",
+   "motion": "Frame slides in, year swaps hard, VHS 'PAUSE' text",
+   "type": "Lime outlined year numerals",
+   "tags": [
+    "framed footage",
+    "stadium stage",
+    "date stamp"
+   ]
+  },
+  {
+   "id": "S12",
+   "kind": "animation",
+   "start_s": 187.604,
+   "dur_s": 3.17,
+   "title": "Records chart",
+   "what": "Line chart on paper, blue\u2192pink gradient line spikes; lime arrow points at the new spike; lime header pill.",
+   "motion": "Line draws L\u2192R then extends; arrow bob",
+   "type": "Lime title pill; tiny axis numbers",
+   "tags": [
+    "data chart",
+    "gradient line",
+    "arrow"
+   ]
+  },
+  {
+   "id": "S13",
+   "kind": "animation",
+   "start_s": 214.548,
+   "dur_s": 4.09,
+   "title": "Records chart reprise",
+   "what": "Same chart redraw with the 2008 spike.",
+   "motion": "Line draw",
+   "type": "Same",
+   "tags": [
+    "data chart"
+   ]
+  },
+  {
+   "id": "S14",
+   "kind": "overlay",
+   "start_s": 229.02,
+   "dur_s": 1.25,
+   "title": "Arrow on footage",
+   "what": "Lime block arrow points at a swimmer, 'PAUSE' VHS text.",
+   "motion": "Arrow pop + bob",
+   "type": "VHS caps",
+   "tags": [
+    "callout arrow",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S15",
+   "kind": "animation",
+   "start_s": 232.524,
+   "dur_s": 19.23,
+   "title": "Headline wall",
+   "what": "Swimsuit-ban headlines on paper texture, lime highlighter on the key phrase; quotes; ends with a rule diagram of body coverage.",
+   "motion": "Each headline pushes in ~0.4s; highlight wipes L\u2192R",
+   "type": "Publisher fonts + lime highlight",
+   "tags": [
+    "headline collage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S16",
+   "kind": "animation",
+   "start_s": 266.975,
+   "dur_s": 13.85,
+   "title": "Rifle shooters in frames",
+   "what": "Two framed clips side by side on the stadium stage; 'PRESCRIPTION GLASSES' pill \u2192 BANNED/ALLOWED; blue eye icon badge.",
+   "motion": "Frames slide; pill tree pops",
+   "type": "Pill buttons",
+   "tags": [
+    "framed footage",
+    "flowchart",
+    "icon"
+   ]
+  },
+  {
+   "id": "S17",
+   "kind": "animation",
+   "start_s": 284.493,
+   "dur_s": 3.21,
+   "title": "Sticky glue",
+   "what": "Pill tree: STICKY GLUE \u2192 BANNED; connector highlights red then lime.",
+   "motion": "Connector colour-swipe",
+   "type": "Pill buttons",
+   "tags": [
+    "flowchart"
+   ]
+  },
+  {
+   "id": "S18",
+   "kind": "animation",
+   "start_s": 300.967,
+   "dur_s": 3.84,
+   "title": "'Too good?' super shoes",
+   "what": "Shoe on the track stage; it splits into layers; italic serif 'SUPER SHOES', lime-highlighted 'Too Good?', 'Next gen shoe', 'Tech Doping' tags pop around.",
+   "motion": "Tags pop staggered",
+   "type": "Mixed italic serif + lime highlight tags",
+   "tags": [
+    "word cloud",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S19",
+   "kind": "animation",
+   "start_s": 316.733,
+   "dur_s": 0.21,
+   "title": "Foam on fire reprise",
+   "what": "Flaming foam flash.",
+   "motion": "0.2s",
+   "type": "none",
+   "tags": [
+    "VFX composite"
+   ]
+  },
+  {
+   "id": "S20",
+   "kind": "overlay",
+   "start_s": 351.518,
+   "dur_s": 2.42,
+   "title": "Circle the shoe",
+   "what": "Marathon footage; a hand-drawn lime ellipse circles the pink shoe.",
+   "motion": "Ellipse draws on ~8f",
+   "type": "Lime circle",
+   "tags": [
+    "circle callout",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S21",
+   "kind": "animation",
+   "start_s": 357.649,
+   "dur_s": 10.3,
+   "title": "Slider comparison",
+   "what": "Paper stage with horizontal gradient sliders (CHANGE IN RACE TIMES / CHANCE OF A PERSONAL BEST), lime knob for Vaporfly, blue knob 'NEXT FASTEST SHOE'; shoe sits bottom-right on a green hill; then a CNN headline drops in.",
+   "motion": "Knobs slide along the bar to their value; labels fade",
+   "type": "Tiny caps scale labels",
+   "tags": [
+    "data slider",
+    "comparison",
+    "headline"
+   ]
+  },
+  {
+   "id": "S22",
+   "kind": "animation",
+   "start_s": 370.161,
+   "dur_s": 14.14,
+   "title": "Shoe history",
+   "what": "Shoe fades to ghost \u2192 collage of shoes by decade with lime outlined decade labels (1990's, 1950's) \u2192 1860's spiked leather shoe with lime label and caption.",
+   "motion": "Cut-outs burst in; camera pushes to the oldest",
+   "type": "Lime outlined numerals + tiny caption",
+   "tags": [
+    "collage",
+    "date stamp",
+    "timeline"
+   ]
+  },
+  {
+   "id": "S23",
+   "kind": "overlay",
+   "start_s": 384.301,
+   "dur_s": 3.34,
+   "title": "Circle the shoe #2",
+   "what": "Same lime ellipse on footage.",
+   "motion": "Draw-on",
+   "type": "Lime circle",
+   "tags": [
+    "circle callout",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S24",
+   "kind": "animation",
+   "start_s": 451.076,
+   "dur_s": 3.21,
+   "title": "Super-shoe headlines",
+   "what": "Headline cards with lime highlight, push-in.",
+   "motion": "0.4\u20131s per card",
+   "type": "Publisher fonts + highlight",
+   "tags": [
+    "headline collage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S25",
+   "kind": "animation",
+   "start_s": 455.246,
+   "dur_s": 28.49,
+   "title": "Midsole & energy return",
+   "what": "Shoe layers float on blueprint-blue; 'MIDSOLE' lime label; '\"ENERGY RETURN\"' lime with quote marks; 'TALLER FOAM STACK' with a bracket.",
+   "motion": "Layers separate; labels pop; bracket draws",
+   "type": "Lime heavy caps with dark outline",
+   "tags": [
+    "exploded view",
+    "hero word",
+    "bracket"
+   ]
+  },
+  {
+   "id": "S26",
+   "kind": "animation",
+   "start_s": 489.906,
+   "dur_s": 8.76,
+   "title": "65% vs 80%+",
+   "what": "Two shoes on the track; percentages count up (blue 65%, lime 80%+) with bell curves drawing under them.",
+   "motion": "Counters tick; curves draw",
+   "type": "Blue / lime heavy numerals",
+   "tags": [
+    "counter",
+    "comparison",
+    "curve draw"
+   ]
+  },
+  {
+   "id": "S27",
+   "kind": "animation",
+   "start_s": 580.079,
+   "dur_s": 8.84,
+   "title": "Marathon record chart",
+   "what": "Dot plot of runners who switched shoes (lime circle on 5%); line chart IMPROVEMENT IN MEN'S MARATHON WORLD RECORD with a lime end dot; Business Insider headline with highlight.",
+   "motion": "Dots pop; line draws to lime end dot",
+   "type": "Teal caps chart titles",
+   "tags": [
+    "data chart",
+    "headline",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S28",
+   "kind": "animation",
+   "start_s": 609.484,
+   "dur_s": 1.0,
+   "title": "OFF-AIR gag",
+   "what": "Glitchy colour-bar test card with 'OFF-AIR' in white heavy caps.",
+   "motion": "Glitch-in then hold",
+   "type": "White heavy caps, blue outline",
+   "tags": [
+    "gag card",
+    "glitch"
+   ]
+  },
+  {
+   "id": "S29",
+   "kind": "animation",
+   "start_s": 628.503,
+   "dur_s": 28.74,
+   "title": "The rule change",
+   "what": "Pill 'FASTER SHOES?' YES/NO; shoe floats on blue with 'ONLY 1 CARBON FIBER PLATE' and '40mm HEIGHT LIMIT' lime labels with brackets; red 'PROTOTYPE' rubber stamp slams on; press-release text with lime highlights.",
+   "motion": "Stamp scales from 140% \u2192 100% with a shake; labels pop",
+   "type": "Lime labels; red stamp",
+   "tags": [
+    "flowchart",
+    "bracket labels",
+    "stamp",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S30",
+   "kind": "animation",
+   "start_s": 661.327,
+   "dur_s": 2.79,
+   "title": "Quote card",
+   "what": "White quote card with blue left bar over desaturated footage; key phrase lime-highlighted; brand mark ghosted.",
+   "motion": "Card slides in; highlight wipes",
+   "type": "Italic serif quote",
+   "tags": [
+    "quote card",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S31",
+   "kind": "animation",
+   "start_s": 723.431,
+   "dur_s": 17.02,
+   "title": "Remote interview on the stadium stage",
+   "what": "Video-call panels in gradient frames side by side on the track stage, then single big frame; archival frame with '2012'; pill tree YES/NO.",
+   "motion": "Frames resize/slide between layouts",
+   "type": "Lime year numerals",
+   "tags": [
+    "framed interview",
+    "stadium stage"
+   ]
+  },
+  {
+   "id": "S32",
+   "kind": "animation",
+   "start_s": 746.663,
+   "dur_s": 17.35,
+   "title": "Enhancement vs correction",
+   "what": "Pill tree ENHANCEMENT/CORRECTION with a blade; 3D mannequin; blade on the track with lime force arrows; back to framed interview.",
+   "motion": "Pills pop; arrows pop",
+   "type": "Pill buttons",
+   "tags": [
+    "flowchart",
+    "3D explainer"
+   ]
+  },
+  {
+   "id": "S33",
+   "kind": "animation",
+   "start_s": 768.393,
+   "dur_s": 24.82,
+   "title": "MASH acrostic",
+   "what": "Research paper with lime highlight labels ('40% slower acceleration'); headline; framed interview; 'Max / Allowable / Standing / Height' acrostic with big lime initials.",
+   "motion": "Labels pop; acrostic lines type in",
+   "type": "Lime heavy initials + dark caps",
+   "tags": [
+    "highlighter",
+    "acrostic",
+    "kinetic type"
+   ]
+  },
+  {
+   "id": "S34",
+   "kind": "animation",
+   "start_s": 800.842,
+   "dur_s": 13.01,
+   "title": "Body proportions",
+   "what": "Grey mannequin on graph paper with dimension brackets X/Y/Z, lime '5'8' height tag, two comparison figures and chart insets.",
+   "motion": "Brackets draw; tag pops",
+   "type": "Lime heavy numerals",
+   "tags": [
+    "diagram",
+    "brackets",
+    "paper stage"
+   ]
+  },
+  {
+   "id": "S35",
+   "kind": "animation",
+   "start_s": 816.899,
+   "dur_s": 11.43,
+   "title": "Wingspan = height",
+   "what": "Swimmer cut-out with a double arrow 'WINGSPAN = HEIGHT'; figure with '6'7 WINGSPAN' and '6'4 HEIGHT' brackets.",
+   "motion": "Arrow draws both ways",
+   "type": "Lime heavy caps",
+   "tags": [
+    "diagram",
+    "brackets"
+   ]
+  },
+  {
+   "id": "S36",
+   "kind": "animation",
+   "start_s": 835.96,
+   "dur_s": 27.53,
+   "title": "Interview + glasses tree",
+   "what": "Framed interview layouts; GLASSES BANNED/ALLOWED tree.",
+   "motion": "Layout swaps",
+   "type": "Pills",
+   "tags": [
+    "framed interview",
+    "flowchart"
+   ]
+  },
+  {
+   "id": "S37",
+   "kind": "animation",
+   "start_s": 872.163,
+   "dur_s": 5.17,
+   "title": "Two-up interview",
+   "what": "Split interview frames on the track stage \u2192 single.",
+   "motion": "Layout swap",
+   "type": "none",
+   "tags": [
+    "framed interview"
+   ]
+  },
+  {
+   "id": "S38",
+   "kind": "animation",
+   "start_s": 911.953,
+   "dur_s": 1.54,
+   "title": "Interview frame",
+   "what": "Single framed interview.",
+   "motion": "Hold",
+   "type": "none",
+   "tags": [
+    "framed interview"
+   ]
+  },
+  {
+   "id": "S39",
+   "kind": "animation",
+   "start_s": 930.972,
+   "dur_s": 3.63,
+   "title": "End card (sage + teal credits)",
+   "what": "HUGE* on sage with 'SUBSCRIBE!' and arrow; credits on grey label plates on teal.",
+   "motion": "Hold, credits change",
+   "type": "House",
+   "tags": [
+    "end card"
+   ]
+  }
+ ]
+}

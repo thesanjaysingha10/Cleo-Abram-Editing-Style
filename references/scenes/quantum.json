@@ -1,0 +1,392 @@
+{
+ "video": "e3fz3dqhN44",
+ "title": "Quantum Computers, explained with MKBHD",
+ "scenes": [
+  {
+   "id": "S01",
+   "kind": "animation",
+   "start_s": 21.421,
+   "dur_s": 0.4,
+   "title": "Light-leak flash",
+   "what": "Warm orange/magenta light leak burns across a cut in the cold open.",
+   "motion": "4\u20136f light-leak overlay, screen blend",
+   "type": "none",
+   "tags": [
+    "light leak",
+    "transition"
+   ]
+  },
+  {
+   "id": "S02",
+   "kind": "animation",
+   "start_s": 33.734,
+   "dur_s": 1.67,
+   "title": "Headline cold open",
+   "what": "News-clip flash, then headlines pushed in fast with lime highlighter on 'Quantum'; light-leak burns between; ends on the host's reaction.",
+   "motion": "~0.3\u20130.6s per headline, push-in; light leak on cuts",
+   "type": "Publisher fonts + lime highlight",
+   "tags": [
+    "headline collage",
+    "highlighter",
+    "light leak"
+   ]
+  },
+  {
+   "id": "S03",
+   "kind": "animation",
+   "start_s": 55.856,
+   "dur_s": 4.07,
+   "title": "Headline smash cut",
+   "what": "Headline fragments slide past in extreme close-up, slight motion blur, pink/orange leaks.",
+   "motion": "Fast horizontal slides",
+   "type": "Publisher serif fragments",
+   "tags": [
+    "headline collage",
+    "light leak"
+   ]
+  },
+  {
+   "id": "S04",
+   "kind": "animation",
+   "start_s": 62.429,
+   "dur_s": 3.14,
+   "title": "Abstract quantum flashes",
+   "what": "Particle wave field, liquid chrome, protein renders \u2014 0.6s abstract stock CG beats.",
+   "motion": "Hard cuts",
+   "type": "none",
+   "tags": [
+    "stock CG",
+    "montage"
+   ]
+  },
+  {
+   "id": "S05",
+   "kind": "animation",
+   "start_s": 113.947,
+   "dur_s": 5.54,
+   "title": "HUGE* title",
+   "what": "House title: HUGE on blue, mauve block extrude, teal HUGE*, asterisk pattern, '*if true', lime HUGE* on sage.",
+   "motion": "Hard cuts every 3\u20136f",
+   "type": "House title face",
+   "tags": [
+    "title sequence"
+   ]
+  },
+  {
+   "id": "S06",
+   "kind": "animation",
+   "start_s": 143.41,
+   "dur_s": 3.2,
+   "title": "IBM headline with highlight",
+   "what": "Car scene \u2192 white flash \u2192 EETimes article; push into the key sentence where a yellow/lime highlight marks 'world's largest superconducting quantum processor'.",
+   "motion": "White flash 2f; push-in with blur",
+   "type": "Publisher serif + highlight",
+   "tags": [
+    "headline",
+    "highlighter",
+    "flash"
+   ]
+  },
+  {
+   "id": "S07",
+   "kind": "animation",
+   "start_s": 154.988,
+   "dur_s": 10.08,
+   "title": "Collage frames on dark",
+   "what": "Photos of supercomputers sit in white-bordered frames on a near-black board with coral and plum squares as offset blocks; frames swap.",
+   "motion": "Frames slide in with the squares offset and lagging 2\u20133f",
+   "type": "none",
+   "tags": [
+    "framed footage",
+    "collage",
+    "geometric blocks"
+   ]
+  },
+  {
+   "id": "S08",
+   "kind": "overlay",
+   "start_s": 215.882,
+   "dur_s": 9.34,
+   "title": "Crew callouts + pill lower thirds",
+   "what": "Lime block arrows point at crew; lower thirds in sentence case inside a dark rounded pill with a lime keyline and a little lime notch ('Nicole Menkart, Associate Producer').",
+   "motion": "Arrows pop and bob; pill wipes on L\u2192R",
+   "type": "White bold sentence case in a dark pill",
+   "tags": [
+    "callout arrow",
+    "lower third pill",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S09",
+   "kind": "animation",
+   "start_s": 237.771,
+   "dur_s": 28.86,
+   "title": "QUANTUM 101 \u2014 the game world",
+   "what": "Video-game title 'QUANTUM 101 / PLAYER 1' (lime chunky 3D type); pause menu 'CHOOSE YOUR MATH LEVEL' with horse/car/boat cards; a low-poly island world in bright cyan sea; split-screen racers; a magnifier of characters at a bridge.",
+   "motion": "Game UI pops; camera orbits the island; split-screen wipe",
+   "type": "Chunky lime game-title type; game-menu UI",
+   "tags": [
+    "metaphor world",
+    "game UI",
+    "low-poly 3D",
+    "split screen"
+   ]
+  },
+  {
+   "id": "S10",
+   "kind": "animation",
+   "start_s": 273.573,
+   "dur_s": 32.83,
+   "title": "Computers through time",
+   "what": "Island zooms into retro computers: CRT monitors on a desk in 3D, screens glitch between eras (Mac 'hello', Windows); then a low-poly city grows on the island.",
+   "motion": "Push-in; datamosh glitches between screens; city builds up",
+   "type": "Retro UI",
+   "tags": [
+    "metaphor world",
+    "glitch",
+    "retro computers"
+   ]
+  },
+  {
+   "id": "S11",
+   "kind": "animation",
+   "start_s": 308.141,
+   "dur_s": 21.82,
+   "title": "Choose the boat",
+   "what": "Menu card picks the boat; the boat sails off the island onto a blueprint 'MATHEMATICAL MAP' with UNDISCOVERED islands and a lime title pill.",
+   "motion": "Cursor click; camera tilts down to map; boat moves along dotted route",
+   "type": "Lime title pill; white caps map labels",
+   "tags": [
+    "metaphor world",
+    "map",
+    "game UI"
+   ]
+  },
+  {
+   "id": "S12",
+   "kind": "animation",
+   "start_s": 334.601,
+   "dur_s": 5.87,
+   "title": "Mathematical map",
+   "what": "Top-down map; '?' islands labelled UNDISCOVERED pulse; route lines draw.",
+   "motion": "Dotted route draws; '?' bob",
+   "type": "White caps labels",
+   "tags": [
+    "map",
+    "route draw"
+   ]
+  },
+  {
+   "id": "S13",
+   "kind": "animation",
+   "start_s": 457.09,
+   "dur_s": 2.7,
+   "title": "Mind blown",
+   "what": "Archival 'mind blown' head shot composited with a particle explosion out of the skull.",
+   "motion": "VFX particles burst, 2.7s",
+   "type": "none",
+   "tags": [
+    "VFX composite",
+    "humour"
+   ]
+  },
+  {
+   "id": "S14",
+   "kind": "animation",
+   "start_s": 519.285,
+   "dur_s": 22.22,
+   "title": "BITS",
+   "what": "'BITS' in lime heavy caps with dark extrude; a purple polygon flips; 0 and 1 states with small labels.",
+   "motion": "Word pops; object rotates; numbers swap",
+   "type": "Lime heavy caps; white numerals",
+   "tags": [
+    "hero word",
+    "diagram"
+   ]
+  },
+  {
+   "id": "S15",
+   "kind": "animation",
+   "start_s": 543.243,
+   "dur_s": 33.23,
+   "title": "Waves and interference",
+   "what": "0|1 split; a white wave; wave sums labelled CONSTRUCTIVE (lime) / DESTRUCTIVE (blue); concentric ripples overlap.",
+   "motion": "Waves draw L\u2192R; ripples expand",
+   "type": "Lime/blue caps labels",
+   "tags": [
+    "diagram",
+    "wave draw",
+    "ripples"
+   ]
+  },
+  {
+   "id": "S16",
+   "kind": "animation",
+   "start_s": 592.792,
+   "dur_s": 25.16,
+   "title": "Qubits vs bits",
+   "what": "Interference dots; BITS (lime) on a binary card vs QUBITS (blue) on a wave card; quantum computer render with 'QUANTUM COMPUTERS CALCULATE THINGS VERY DIFFERENTLY' then 'IT MAKES THEM GOOD AT DIFFERENT THINGS'.",
+   "motion": "Cards flip in; lines type in two colours",
+   "type": "Two-tone heavy caps (blue + lime/white)",
+   "tags": [
+    "comparison cards",
+    "two-tone type"
+   ]
+  },
+  {
+   "id": "S17",
+   "kind": "animation",
+   "start_s": 648.715,
+   "dur_s": 10.24,
+   "title": "Simulating nature island",
+   "what": "Map \u2192 an island with palm trees and a '?' sign that becomes 'SIMULATING NATURE' lime pill.",
+   "motion": "Camera flies to island; sign swaps",
+   "type": "Lime pill label",
+   "tags": [
+    "metaphor world",
+    "label"
+   ]
+  },
+  {
+   "id": "S18",
+   "kind": "animation",
+   "start_s": 667.967,
+   "dur_s": 9.71,
+   "title": "Leaf \u2192 molecule magnifier",
+   "what": "Leaf in a circle; two nested magnifier circles drill into cells then a molecule.",
+   "motion": "Nested magnifier circles scale from lime dots",
+   "type": "none",
+   "tags": [
+    "magnifier inset",
+    "nested zoom"
+   ]
+  },
+  {
+   "id": "S19",
+   "kind": "animation",
+   "start_s": 721.821,
+   "dur_s": 14.62,
+   "title": "Polaroids + encryption island",
+   "what": "Polaroid photos of the hosts drop in; island; low-poly cloud island with 'ENCRYPTION' lime pill; light leak.",
+   "motion": "Polaroids drop with rotation; pill pops",
+   "type": "Lime pill",
+   "tags": [
+    "polaroids",
+    "metaphor world",
+    "light leak"
+   ]
+  },
+  {
+   "id": "S20",
+   "kind": "animation",
+   "start_s": 739.172,
+   "dur_s": 4.94,
+   "title": "Encryption headlines",
+   "what": "Headlines with lime highlight on 'break encryption'; one pulls into huge type 'That's a problem' highlighted.",
+   "motion": "Push-ins; highlight wipes",
+   "type": "Publisher fonts + lime highlight",
+   "tags": [
+    "headline collage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S21",
+   "kind": "animation",
+   "start_s": 748.414,
+   "dur_s": 0.23,
+   "title": "Light leak",
+   "what": "Magenta leak flash.",
+   "motion": "0.2s",
+   "type": "none",
+   "tags": [
+    "light leak"
+   ]
+  },
+  {
+   "id": "S22",
+   "kind": "overlay",
+   "start_s": 765.131,
+   "dur_s": 11.81,
+   "title": "Keyword over footage",
+   "what": "'RSA Encryption' in lime heavy sentence case pops beside the speaker.",
+   "motion": "Pop",
+   "type": "Lime heavy",
+   "tags": [
+    "keyword super",
+    "overlay"
+   ]
+  },
+  {
+   "id": "S23",
+   "kind": "animation",
+   "start_s": 798.965,
+   "dur_s": 8.14,
+   "title": "Arms-race headlines",
+   "what": "Headlines with lime highlights ('quantum computing arms race', 'RACE TO DEVELOP').",
+   "motion": "Push-ins",
+   "type": "Publisher fonts + highlight",
+   "tags": [
+    "headline collage",
+    "highlighter"
+   ]
+  },
+  {
+   "id": "S24",
+   "kind": "animation",
+   "start_s": 819.385,
+   "dur_s": 5.67,
+   "title": "IBM roadmap",
+   "what": "Light leak into IBM press release and roadmap image; headline text with orange highlight.",
+   "motion": "Light leak + push",
+   "type": "Publisher",
+   "tags": [
+    "headline",
+    "light leak"
+   ]
+  },
+  {
+   "id": "S25",
+   "kind": "animation",
+   "start_s": 868.901,
+   "dur_s": 10.61,
+   "title": "Computer = boat = submarine",
+   "what": "Quantum computer '=' boat, then '=' submarine (sparkle lines); ocean depth layers 'Simulating Nature / Encryption / ??? / ???'.",
+   "motion": "Objects pop with equals; layers scroll down",
+   "type": "White bold labels on blue bands",
+   "tags": [
+    "equation",
+    "metaphor world",
+    "depth layers"
+   ]
+  },
+  {
+   "id": "S26",
+   "kind": "animation",
+   "start_s": 948.514,
+   "dur_s": 16.92,
+   "title": "New math unlocked",
+   "what": "Island city with menu card; submarine dives into an underwater ruin; 'NEW MATH UNLOCKED' lime game toast.",
+   "motion": "Dive camera; toast pops like an achievement",
+   "type": "Lime game toast",
+   "tags": [
+    "metaphor world",
+    "game UI"
+   ]
+  },
+  {
+   "id": "S27",
+   "kind": "animation",
+   "start_s": 992.058,
+   "dur_s": 28.2,
+   "title": "End card (sentence-case variant)",
+   "what": "Sage HUGE* + credits on grey plates; 'SUBSCRIBE!' lime over host; coral-block 'To support Huge If True, please consider subscribing.' with lime arrows.",
+   "motion": "Arrows bob",
+   "type": "Coral blocks with geometric sans",
+   "tags": [
+    "end card"
+   ]
+  }
+ ]
+}
